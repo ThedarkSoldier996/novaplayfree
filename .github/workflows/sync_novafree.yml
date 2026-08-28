@@ -1,0 +1,77 @@
+name: Sync Data
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch Private Data
+        run: |
+          curl -X POST "${{ secrets.API_URL }}" \
+          -H "Content-Type: application/json" \
+          -H "x-nova-token: ${{ secrets.NOVA_TOKEN }}" \
+          -d '{"action": "obtener_json"}' \
+          -o novafree.json
+
+      - name: Process Resources
+        run: |
+          # Reemplazo del origen de iconos usando el secreto para ocultar 'novaplaytv'
+          sed -i "s|${{ secrets.ICON_SOURCE_URL }}|https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/|g" novafree.json
+
+      - name: Build Assets
+        run: |
+          cat << 'EOF' > filter.jq
+          {
+            name: ("NovaPlay Free Version (" + ($domain | ascii_upcase) + ")"),
+            author: "MSGT",
+            image: "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/novasplash.webp",
+            groups: map({
+              name: .title,
+              stations: (.items // []) | map(
+                (.url | split("/") | .[3:] | join("/")) as $path |
+                ($path | sub("_enc/"; "_cenc/")) as $tokenPath |
+                {
+                  name: .name,
+                  image: .icono,
+                  # Lógica nativa de Flow (Ruta directa a servidores de AR)
+                  url: (if .flow == "yes" then ("https://edge-live08-hr.cvattv.com.ar/tok_{token}/" + $path) else (.url // .uri) end),
+                  token: (if .flow == "yes" then ("https://cdn.cvattv.com.ar/" + $tokenPath) else null end),
+                  license_type: (if .type == "CLEARKEY" or .flow == "yes" then "clearkey" else .type end),
+                  license_key: .drm_license_uri,
+                  headers: {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+                    "Referer": (if .flow == "yes" then ("https://portal.app.flow.com." + $domain + "/") else .Referer end),
+                    "Origin": (if .flow == "yes" then ("https://portal.app.flow.com." + $domain) else .Origin end)
+                  } | with_entries(select(.value != null))
+                }
+              )
+            })
+          }
+          EOF
+          
+          # Generar las tres versiones nacionales
+          jq --arg domain "py" -f filter.jq novafree.json > novafree_py.w3u
+          jq --arg domain "ar" -f filter.jq novafree.json > novafree_ar.w3u
+          jq --arg domain "uy" -f filter.jq novafree.json > novafree_uy.w3u
+
+      - name: Deploy
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "DataSync Bot"
+          git add novafree.json novafree_py.w3u novafree_ar.w3u novafree_uy.w3u
+          if git diff --staged --quiet; then
+            echo "Sin cambios."
+          else
+            git commit -m "Update: Sincronizacion de contenido del ecosistema"
+            git push
+          fi
