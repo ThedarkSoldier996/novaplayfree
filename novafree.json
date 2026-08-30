@@ -3100,12 +3100,6 @@
         "status": "true"
       },
       {
-        "name": "FOX SPORTS",
-        "url": "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/tracks-v1a1/mono.m3u8",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/350.webp",
-        "status": "true"
-      },
-      {
         "name": "CBS SPORTS GOLAZO!",
         "url": "https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/351.webp",
@@ -3723,12 +3717,14 @@
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
       {
-        "name": "ANTIRETORNO AL CARGAR CANALES",
+        "name": "Testing 4K",
         "info": "SOLO ES UN VIDEO EN BUCLE",
         "loop": "true",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/442.webp",
         "url": "https://drive.usercontent.google.com/download?id=1P9pLY6TdpoNm9G2CcEfstIe0WSxKh1iq&export=download&authuser=0&confirm=t&uuid=f7d98d0e-ed6f-4911-ab22-8e101b18e297&at=AAINaIJI2tAJ4Wcc-lPlnVRoPq4F%3A1782130268100",
-        "status": "true"
+        "status": "true",
+        "CH-events": "yes",
+        "NSFW": "NO"
       },
       {
         "name": "Señal No Asignada",
