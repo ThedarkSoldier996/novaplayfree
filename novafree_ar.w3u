@@ -469,17 +469,6 @@
           }
         },
         {
-          "name": "RB TV-RADIO",
-          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/037.webp",
-          "url": "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8",
-          "token": null,
-          "license_type": null,
-          "license_key": null,
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-          }
-        },
-        {
           "name": "REGIONAL TV",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/038.webp",
           "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
@@ -871,17 +860,6 @@
           }
         },
         {
-          "name": "UNI TEVE",
-          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/070.webp",
-          "url": "https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8",
-          "token": null,
-          "license_type": null,
-          "license_key": null,
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-          }
-        },
-        {
           "name": "COSMOS TV",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/071.webp",
           "url": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8",
@@ -907,17 +885,6 @@
           "name": "TELEMAX",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/073.webp",
           "url": "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8",
-          "token": null,
-          "license_type": null,
-          "license_key": null,
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-          }
-        },
-        {
-          "name": "SOMOS UNO",
-          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/074.webp",
-          "url": "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8",
           "token": null,
           "license_type": null,
           "license_key": null,
@@ -2534,20 +2501,9 @@
           }
         },
         {
-          "name": "CANAL 57",
-          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/210.webp",
-          "url": "https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8",
-          "token": null,
-          "license_type": null,
-          "license_key": null,
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-          }
-        },
-        {
           "name": "CGTN",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/211.webp",
-          "url": "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8",
+          "url": "https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8",
           "token": null,
           "license_type": null,
           "license_key": null,
@@ -3559,17 +3515,6 @@
           }
         },
         {
-          "name": "ESCAPE PERFECTO POR SONY ONE CANAL",
-          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/297.webp",
-          "url": "https://jmp2.uk/plu-605e479d5b8229000763e697.m3u8",
-          "token": null,
-          "license_type": null,
-          "license_key": null,
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-          }
-        },
-        {
           "name": "MASTERCHEF",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/298.webp",
           "url": "https://jmp2.uk/plu-5e3ddbd27091820009f86dd9.m3u8",
@@ -4145,17 +4090,6 @@
       "name": "PLUTO TV DEPORTES ",
       "stations": [
         {
-          "name": "PLUTO.TV FUTBOL",
-          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/348.webp",
-          "url": "https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8",
-          "token": null,
-          "license_type": null,
-          "license_key": null,
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-          }
-        },
-        {
           "name": "PLUTO.TV DEPORTES",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/349.webp",
           "url": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8",
@@ -4236,28 +4170,6 @@
           "name": "PLUTO.TV PELEAS",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/357.webp",
           "url": "https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8",
-          "token": null,
-          "license_type": null,
-          "license_key": null,
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-          }
-        },
-        {
-          "name": "DAZN COMBAT",
-          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/358.webp",
-          "url": "https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8",
-          "token": null,
-          "license_type": null,
-          "license_key": null,
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-          }
-        },
-        {
-          "name": "LUCHA LIBRE AAA",
-          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/359.webp",
-          "url": "https://jmp2.uk/plu-5f99a772c54853000797bf18.m3u8",
           "token": null,
           "license_type": null,
           "license_key": null,
