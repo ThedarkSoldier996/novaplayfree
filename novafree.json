@@ -35,24 +35,6 @@
         "status": "true",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/novasports001/playlist.m3u8",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/novasports.webp"
-      },
-      {
-        "name": "Rally TV Fast",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/446.webp",
-        "status": "true",
-        "NSFW": "NO",
-        "url": "https://dv1e2nq0r4g7p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n8rallqdrsy49/playlist.m3u8",
-        "info": "EVENTOS",
-        "CH-events": "yes"
-      },
-      {
-        "name": "Rally TV",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/446.webp",
-        "status": "true",
-        "NSFW": "NO",
-        "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
-        "info": "EVENTOS",
-        "CH-events": "yes"
       }
     ]
   },
@@ -1475,6 +1457,20 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/VIXTUDN",
         "status": "true"
+      },
+      {
+        "name": "Rally TV",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/446.webp",
+        "status": "true",
+        "NSFW": "NO",
+        "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8"
+      },
+      {
+        "name": "Rally TV Fast",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/446.webp",
+        "status": "true",
+        "NSFW": "NO",
+        "url": "https://dv1e2nq0r4g7p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n8rallqdrsy49/playlist.m3u8"
       }
     ]
   },

@@ -42,28 +42,6 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
           }
-        },
-        {
-          "name": "Rally TV Fast",
-          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/446.webp",
-          "url": "https://dv1e2nq0r4g7p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n8rallqdrsy49/playlist.m3u8",
-          "token": null,
-          "license_type": null,
-          "license_key": null,
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-          }
-        },
-        {
-          "name": "Rally TV",
-          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/446.webp",
-          "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
-          "token": null,
-          "license_type": null,
-          "license_key": null,
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-          }
         }
       ]
     },
@@ -1794,6 +1772,28 @@
           "token": null,
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/VIXTUDN",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+          }
+        },
+        {
+          "name": "Rally TV",
+          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/446.webp",
+          "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
+          "token": null,
+          "license_type": null,
+          "license_key": null,
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+          }
+        },
+        {
+          "name": "Rally TV Fast",
+          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/446.webp",
+          "url": "https://dv1e2nq0r4g7p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n8rallqdrsy49/playlist.m3u8",
+          "token": null,
+          "license_type": null,
+          "license_key": null,
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
           }
