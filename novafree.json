@@ -655,8 +655,20 @@
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/448.webp",
+        "status": "true",
+        "NSFW": "NO"
+      },
+      {
+        "name": "TN 4K",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/064.webp",
-        "status": "true"
+        "status": "true",
+        "NSFW": "NO",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Todo_Noticias_4K/SA_Live_dash_widevine/Todo_Noticias_4K.mpd",
+        "Referer": "https://portal.app.flow.com.py",
+        "Origin": "https://portal.app.flow.com.py",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_TNAR_4K"
       },
       {
         "name": "RTS",

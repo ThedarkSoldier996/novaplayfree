@@ -769,7 +769,7 @@
         },
         {
           "name": "TN",
-          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/064.webp",
+          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/448.webp",
           "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd",
           "token": "https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_cenc/TodoNoticias.mpd",
           "license_type": "clearkey",
@@ -778,6 +778,19 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Referer": "https://portal.app.flow.com.uy/",
             "Origin": "https://portal.app.flow.com.uy"
+          }
+        },
+        {
+          "name": "TN 4K",
+          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/064.webp",
+          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Todo_Noticias_4K/SA_Live_dash_widevine/Todo_Noticias_4K.mpd",
+          "token": null,
+          "license_type": null,
+          "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_TNAR_4K",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Referer": "https://portal.app.flow.com.py",
+            "Origin": "https://portal.app.flow.com.py"
           }
         },
         {
