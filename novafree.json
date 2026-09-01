@@ -1187,14 +1187,15 @@
         "status": "true"
       },
       {
-        "name": "FOX+",
+        "name": "FOX",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/444.webp",
         "type": "CLEARKEY",
         "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
         "Referer": "https://www.primevideo.com/",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/KEY_FOX-",
-        "status": "true"
+        "status": "true",
+        "NSFW": "NO"
       },
       {
         "name": "BEIN SPORTS XTRA Ñ",
@@ -2052,12 +2053,6 @@
         "name": "TELEMUNDO ACCION",
         "url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889470",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/208.webp",
-        "status": "true"
-      },
-      {
-        "name": "UNIVERSO",
-        "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/209.webp",
         "status": "true"
       },
       {
