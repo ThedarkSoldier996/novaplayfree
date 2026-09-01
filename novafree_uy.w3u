@@ -309,7 +309,7 @@
           }
         },
         {
-          "name": "VENUS MEDIA ",
+          "name": "VENUS MEDIA",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/025.webp",
           "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Venus_Media/SA_Live_dash_enc/Venus_Media.mpd",
           "token": "https://cdn.cvattv.com.ar/live/c7eds/Venus_Media/SA_Live_dash_cenc/Venus_Media.mpd",
@@ -1595,7 +1595,7 @@
           }
         },
         {
-          "name": "DSPORT UY PREMIUM",
+          "name": "DSPORT URUGUAY PREMIUM",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/447.webp",
           "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/DSports_Uruguay_Premium/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DSports_Uruguay_Premium.mpd",
           "token": null,
