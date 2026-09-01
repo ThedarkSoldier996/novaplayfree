@@ -383,12 +383,6 @@
         "status": "true"
       },
       {
-        "name": "RCC",
-        "url": "https://zn1radios.desdeparaguay.net/rcctv/rcctv/chunklist_w1861373147.m3u8?k=b384c9b3546db887639927ce4fc2268bc5136ba91d3df11ba8d14c49940a2bbb&exp=1777370953",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/040.webp",
-        "status": "true"
-      },
-      {
         "name": "VISION TV",
         "url": "https://copacogen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist_w1906112169.m3u8?admin=nacion",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/041.webp",
