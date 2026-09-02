@@ -76,7 +76,9 @@
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/007.webp",
-        "status": "true"
+        "status": "true",
+        "NSFW": "NO",
+        "epg_id": "PopuTV.py"
       },
       {
         "name": "TRECE",
@@ -125,7 +127,7 @@
       {
         "name": "C9N",
         "flow": "yes",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c5eds/C9N_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/C9N_C4.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_C9NPY",
         "Origin": "https://portal.app.flow.com.ar",
@@ -133,7 +135,8 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/012.webp",
         "status": "true",
-        "NSFW": "NO"
+        "NSFW": "NO",
+        "epg_id": "C9N.py"
       },
       {
         "name": "PARAVISION",
@@ -351,7 +354,9 @@
         "name": "TV MAX CNEL OVIEDO",
         "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/030.webp",
-        "status": "true"
+        "status": "true",
+        "NSFW": "NO",
+        "epg_id": "Canal5TVMax.py"
       },
       {
         "name": "TVS ENCARNACIÓN",
@@ -1102,12 +1107,6 @@
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/111.webp",
-        "status": "true"
-      },
-      {
-        "name": "ESPN PREMIUM CL",
-        "url": "http://38.226.49.253:8000/play/a07t/index.m3u8",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/112.webp",
         "status": "true"
       },
       {
@@ -3690,6 +3689,17 @@
         "nsfw": "yes",
         "url": "https://goo.su/KoXJ",
         "status": "true"
+      },
+      {
+        "name": "TRECE TESTING",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/442.webp",
+        "status": "true",
+        "NSFW": "NO",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/RPC_C4/sa_live_dash/RPC_C4.mpd",
+        "Referer": "https://portal.app.flow.com.ar",
+        "Origin": "https://portal.app.flow.com.ar",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TrecePY"
       }
     ]
   }

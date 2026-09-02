@@ -142,8 +142,8 @@
         {
           "name": "C9N",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/012.webp",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
-          "token": "https://cdn.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_cenc/C9N_C4.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c5eds/C9N_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/C9N_C4.mpd",
+          "token": "https://cdn.cvattv.com.ar/live/c5eds/C9N_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/C9N_C4.mpd",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_C9NPY",
           "headers": {
@@ -1357,17 +1357,6 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Referer": "https://portal.app.flow.com.ar/",
             "Origin": "https://portal.app.flow.com.ar"
-          }
-        },
-        {
-          "name": "ESPN PREMIUM CL",
-          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/112.webp",
-          "url": "http://38.226.49.253:8000/play/a07t/index.m3u8",
-          "token": null,
-          "license_type": null,
-          "license_key": null,
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
           }
         },
         {
@@ -5153,6 +5142,19 @@
           "license_key": null,
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+          }
+        },
+        {
+          "name": "TRECE TESTING",
+          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/442.webp",
+          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/RPC_C4/sa_live_dash/RPC_C4.mpd",
+          "token": null,
+          "license_type": null,
+          "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TrecePY",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Referer": "https://portal.app.flow.com.ar",
+            "Origin": "https://portal.app.flow.com.ar"
           }
         }
       ]
