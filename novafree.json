@@ -79,7 +79,7 @@
         "status": "true"
       },
       {
-        "name": "TRECE PY",
+        "name": "TRECE",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/008.webp",
         "status": "true",
         "NSFW": "NO",
@@ -90,7 +90,7 @@
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TrecePY"
       },
       {
-        "name": "UNICANAL PY",
+        "name": "UNICANAL",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/009.webp",
         "status": "true",
         "NSFW": "NO",
@@ -311,6 +311,28 @@
         "Origin": "https://portal.app.flow.com.ar",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_TvCamaraPy"
+      },
+      {
+        "name": "EDUCANAL",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/448.webp",
+        "status": "true",
+        "NSFW": "NO",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/Educanal/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Educanal.mpd",
+        "Referer": "https://portal.app.flow.com.ar",
+        "Origin": "https://portal.app.flow.com.ar",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Educanal"
+      },
+      {
+        "name": "RCC",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/449.webp",
+        "status": "true",
+        "NSFW": "NO",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/RCC/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/RCC.mpd",
+        "Referer": "https://portal.app.flow.com.ar",
+        "Origin": "https://portal.app.flow.com.ar",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_RCC"
       },
       {
         "name": "BRUNO MASI TV",

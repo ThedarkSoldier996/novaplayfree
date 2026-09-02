@@ -88,7 +88,7 @@
           }
         },
         {
-          "name": "TRECE PY",
+          "name": "TRECE",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/008.webp",
           "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/RPC_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/RPC_C4.mpd",
           "token": null,
@@ -101,7 +101,7 @@
           }
         },
         {
-          "name": "UNICANAL PY",
+          "name": "UNICANAL",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/009.webp",
           "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/UNICANAL_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/UNICANAL_C4.mpd",
           "token": null,
@@ -344,6 +344,32 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Referer": "https://portal.app.flow.com.ar/",
+            "Origin": "https://portal.app.flow.com.ar"
+          }
+        },
+        {
+          "name": "EDUCANAL",
+          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/448.webp",
+          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/Educanal/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Educanal.mpd",
+          "token": null,
+          "license_type": null,
+          "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Educanal",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Referer": "https://portal.app.flow.com.ar",
+            "Origin": "https://portal.app.flow.com.ar"
+          }
+        },
+        {
+          "name": "RCC",
+          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/449.webp",
+          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/RCC/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/RCC.mpd",
+          "token": null,
+          "license_type": null,
+          "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_RCC",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Referer": "https://portal.app.flow.com.ar",
             "Origin": "https://portal.app.flow.com.ar"
           }
         },
