@@ -1675,7 +1675,9 @@
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/168.webp",
-        "status": "true"
+        "status": "true",
+        "NSFW": "NO",
+        "epg_id": "AXNLatinAmerica.us@Andes"
       },
       {
         "name": "FX",
