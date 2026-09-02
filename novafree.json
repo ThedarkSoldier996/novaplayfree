@@ -14,7 +14,9 @@
         "Referer": "https://www.tigosports.com.py/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/001.webp",
-        "status": "true"
+        "status": "true",
+        "NSFW": "NO",
+        "epg_id": "py#tigo-sports"
       },
       {
         "name": "TIGO SPORTS OPC 2",
@@ -26,7 +28,8 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/002.webp",
         "status": "true",
-        "NSFW": "NO"
+        "NSFW": "NO",
+        "epg_id": "py#tigo-sports"
       },
       {
         "name": "NOVASPORTS",
@@ -85,22 +88,24 @@
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/008.webp",
         "status": "true",
         "NSFW": "NO",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/RPC_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/RPC_C4.mpd",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
         "Referer": "https://portal.app.flow.com.ar/",
         "Origin": "https://portal.app.flow.com.ar",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TrecePY"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TrecePY",
+        "epg_id": "Trece.py@SD"
       },
       {
         "name": "UNICANAL",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/009.webp",
         "status": "true",
         "NSFW": "NO",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/UNICANAL_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/UNICANAL_C4.mpd",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
         "Referer": "https://portal.app.flow.com.ar/",
         "Origin": "https://portal.app.flow.com.ar",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_UnicanalPY"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_UnicanalPY",
+        "epg_id": "Unicanal.py@SD"
       },
       {
         "name": "TELEFUTURO",
@@ -111,18 +116,20 @@
         "Referer": "https://portal.app.flow.com.ar/",
         "Origin": "https://portal.app.flow.com.ar",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TelefuturoPY"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TelefuturoPY",
+        "epg_id": "Telefuturo.py@SD"
       },
       {
         "name": "SNT",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/445.webp",
         "status": "true",
         "NSFW": "NO",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/SNT_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/SNT_C4.mpd",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
         "Referer": "https://portal.app.flow.com.ar/",
         "Origin": "https://portal.app.flow.com.ar",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_SNTPY"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_SNTPY",
+        "epg_id": "SNT.py@SD"
       },
       {
         "name": "C9N",
@@ -147,7 +154,8 @@
         "Referer": "https://portal.app.flow.com.ar/",
         "Origin": "https://portal.app.flow.com.ar",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_Paravision"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_Paravision",
+        "epg_id": "Paravision.py@SD"
       },
       {
         "name": "ABC COLOR PY",
@@ -160,7 +168,8 @@
         "Referer": "https://portal.app.flow.com.py/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "status": "true",
-        "NSFW": "NO"
+        "NSFW": "NO",
+        "epg_id": "py#abc-tv"
       },
       {
         "name": "LA TELE",
@@ -171,7 +180,8 @@
         "Referer": "https://portal.app.flow.com.py/",
         "Origin": "https://portal.app.flow.com.py",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_LaTelePY"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_LaTelePY",
+        "epg_id": "Latele.py@SD"
       },
       {
         "name": "SUR TV",
@@ -182,7 +192,8 @@
         "Referer": "https://portal.app.flow.com.py/",
         "Origin": "https://portal.app.flow.com.py",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_SurTVPY"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_SurTVPY",
+        "epg_id": "SURTVItapua.py@SD"
       },
       {
         "name": "AMERICA PY",
@@ -216,7 +227,8 @@
         "Referer": "https://portal.app.flow.com.ar/",
         "Origin": "https://portal.app.flow.com.ar",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_NPY"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_NPY",
+        "epg_id": "NPY.py@SD"
       },
       {
         "name": "CANAL PRO",

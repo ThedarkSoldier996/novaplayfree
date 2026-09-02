@@ -90,7 +90,7 @@
         {
           "name": "TRECE",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/008.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/RPC_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/RPC_C4.mpd",
+          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
           "token": null,
           "license_type": null,
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TrecePY",
@@ -103,7 +103,7 @@
         {
           "name": "UNICANAL",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/009.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/UNICANAL_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/UNICANAL_C4.mpd",
+          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
           "token": null,
           "license_type": null,
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_UnicanalPY",
@@ -129,7 +129,7 @@
         {
           "name": "SNT",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/445.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/SNT_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/SNT_C4.mpd",
+          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
           "token": null,
           "license_type": null,
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_SNTPY",
