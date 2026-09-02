@@ -136,7 +136,7 @@
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/012.webp",
         "status": "true",
         "NSFW": "NO",
-        "epg_id": "C9N.py"
+        "epg_id": "C9N.py@SD"
       },
       {
         "name": "PARAVISION",
@@ -255,7 +255,8 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/022.webp",
         "status": "true",
-        "NSFW": "NO"
+        "NSFW": "NO",
+        "epg_id": "ParaguayTV.py@SD"
       },
       {
         "name": "HEI NOW",
@@ -661,9 +662,10 @@
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/448.webp",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/450.webp",
         "status": "true",
-        "NSFW": "NO"
+        "NSFW": "NO",
+        "epg_id": "TN.ar@SD"
       },
       {
         "name": "TN 4K",
@@ -674,7 +676,8 @@
         "Referer": "https://portal.app.flow.com.py",
         "Origin": "https://portal.app.flow.com.py",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_TNAR_4K"
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_TNAR_4K",
+        "epg_id": "TN.ar@SD"
       },
       {
         "name": "RTS",
@@ -1107,7 +1110,9 @@
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/111.webp",
-        "status": "true"
+        "status": "true",
+        "NSFW": "NO",
+        "epg_id": "ESPNPremium.ar@SD"
       },
       {
         "name": "FOX DEPORTES",
@@ -3697,7 +3702,7 @@
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/442.webp",
         "status": "true",
         "NSFW": "NO",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/RPC_C4/sa_live_dash/RPC_C4.mpd",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/RPC_C4/SA_Live_dash_widevine/RPC_C4.mpd",
         "Referer": "https://portal.app.flow.com.ar",
         "Origin": "https://portal.app.flow.com.ar",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",

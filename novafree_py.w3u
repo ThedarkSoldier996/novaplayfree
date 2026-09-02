@@ -784,7 +784,7 @@
         },
         {
           "name": "TN",
-          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/448.webp",
+          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/450.webp",
           "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd",
           "token": "https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_cenc/TodoNoticias.mpd",
           "license_type": "clearkey",
@@ -5147,7 +5147,7 @@
         {
           "name": "TRECE TESTING",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/442.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/RPC_C4/sa_live_dash/RPC_C4.mpd",
+          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/RPC_C4/SA_Live_dash_widevine/RPC_C4.mpd",
           "token": null,
           "license_type": null,
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TrecePY",
