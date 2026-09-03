@@ -93,7 +93,8 @@
         "Origin": "https://portal.app.flow.com.ar",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TrecePY",
-        "epg_id": "Trece.py@SD"
+        "epg_id": "Trece.py@SD",
+        "flow": "yes"
       },
       {
         "name": "UNICANAL",
@@ -105,7 +106,8 @@
         "Origin": "https://portal.app.flow.com.ar",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_UnicanalPY",
-        "epg_id": "Unicanal.py@SD"
+        "epg_id": "Unicanal.py@SD",
+        "flow": "yes"
       },
       {
         "name": "TELEFUTURO",
@@ -117,19 +119,21 @@
         "Origin": "https://portal.app.flow.com.ar",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TelefuturoPY",
-        "epg_id": "Telefuturo.py@SD"
+        "epg_id": "Telefuturo.py@SD",
+        "flow": "yes"
       },
       {
         "name": "SNT",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/445.webp",
         "status": "true",
         "NSFW": "NO",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/SNT_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/SNT_C4.mpd",
         "Referer": "https://portal.app.flow.com.ar/",
         "Origin": "https://portal.app.flow.com.ar",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_SNTPY",
-        "epg_id": "SNT.py@SD"
+        "epg_id": "SNT.py@SD",
+        "flow": "yes"
       },
       {
         "name": "C9N",
@@ -155,7 +159,8 @@
         "Origin": "https://portal.app.flow.com.ar",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_Paravision",
-        "epg_id": "Paravision.py@SD"
+        "epg_id": "Paravision.py@SD",
+        "flow": "yes"
       },
       {
         "name": "ABC COLOR PY",
@@ -181,7 +186,8 @@
         "Origin": "https://portal.app.flow.com.py",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_LaTelePY",
-        "epg_id": "Latele.py@SD"
+        "epg_id": "Latele.py@SD",
+        "flow": "yes"
       },
       {
         "name": "SUR TV",
@@ -193,7 +199,8 @@
         "Origin": "https://portal.app.flow.com.py",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_SurTVPY",
-        "epg_id": "SURTVItapua.py@SD"
+        "epg_id": "SURTVItapua.py@SD",
+        "flow": "yes"
       },
       {
         "name": "AMERICA PY",
@@ -216,7 +223,8 @@
         "Referer": "https://portal.app.flow.com.py/",
         "Origin": "https://portal.app.flow.com.py",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_5diasPy"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_5diasPy",
+        "flow": "yes"
       },
       {
         "name": "NPY",
@@ -228,7 +236,8 @@
         "Origin": "https://portal.app.flow.com.ar",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_NPY",
-        "epg_id": "NPY.py@SD"
+        "epg_id": "NPY.py@SD",
+        "flow": "yes"
       },
       {
         "name": "CANAL PRO",
@@ -280,7 +289,8 @@
         "Origin": "https://portal.app.flow.com.ar",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_HeiNow",
-        "epg_id": "py#hei-network"
+        "epg_id": "py#hei-network",
+        "flow": "yes"
       },
       {
         "name": "ÑANDUTI TV",
@@ -291,7 +301,8 @@
         "Referer": "https://portal.app.flow.com.ar/",
         "Origin": "https://portal.app.flow.com.ar",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_-ANDUTIPY"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_-ANDUTIPY",
+        "flow": "yes"
       },
       {
         "name": "VENUS MEDIA",
@@ -327,7 +338,8 @@
         "Referer": "https://portal.app.flow.com.ar/",
         "Origin": "https://portal.app.flow.com.ar",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_TvCamaraPy"
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_TvCamaraPy",
+        "flow": "yes"
       },
       {
         "name": "EDUCANAL",
@@ -338,7 +350,8 @@
         "Referer": "https://portal.app.flow.com.ar",
         "Origin": "https://portal.app.flow.com.ar",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Educanal"
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Educanal",
+        "flow": "yes"
       },
       {
         "name": "RCC",
@@ -349,7 +362,8 @@
         "Referer": "https://portal.app.flow.com.ar",
         "Origin": "https://portal.app.flow.com.ar",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_RCC"
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_RCC",
+        "flow": "yes"
       },
       {
         "name": "BRUNO MASI TV",
@@ -706,7 +720,8 @@
         "Origin": "https://portal.app.flow.com.py",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_TNAR_4K",
-        "epg_id": "TN.ar@SD"
+        "epg_id": "TN.ar@SD",
+        "flow": "yes"
       },
       {
         "name": "RTS",
@@ -1364,7 +1379,8 @@
         "Referer": "https://portal.app.flow.com.ar",
         "Origin": "https://portal.app.flow.com.ar",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DsportsUyPREMIUM"
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DsportsUyPREMIUM",
+        "flow": "yes"
       },
       {
         "name": "DSPORTS COLOMBIA",
@@ -3735,7 +3751,21 @@
         "Referer": "https://portal.app.flow.com.ar",
         "Origin": "https://portal.app.flow.com.ar",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TrecePY"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TrecePY",
+        "flow": "yes"
+      },
+      {
+        "name": "TELEFUTURO",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/010.webp",
+        "status": "true",
+        "NSFW": "NO",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd?",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "Origin": "https://portal.app.flow.com.ar",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/NovaplayTestingChannels",
+        "epg_id": "Telefuturo.py@SD",
+        "flow": "yes"
       }
     ]
   }
