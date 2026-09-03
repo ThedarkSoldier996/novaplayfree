@@ -7,7 +7,7 @@
       "name": "EVENTOS",
       "stations": [
         {
-          "name": "TIGO SPORTS OPC 1",
+          "name": "TIGO SPORTS #1",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/001.webp",
           "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
           "token": null,
@@ -20,7 +20,7 @@
           }
         },
         {
-          "name": "TIGO SPORTS OPC 2",
+          "name": "TIGO SPORTS #2",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/002.webp",
           "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index.m3u8",
           "token": null,
@@ -285,7 +285,7 @@
         {
           "name": "HEI NOW",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/023.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/HEI_NOW/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HEI_NOW.mpd",
+          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/HEI_NOW/SA_Live_dash_enc/HEI_NOW.mpd",
           "token": null,
           "license_type": null,
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_HeiNow",
