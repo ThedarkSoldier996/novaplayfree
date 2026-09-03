@@ -496,7 +496,9 @@
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/049.webp",
-        "status": "true"
+        "status": "true",
+        "NSFW": "NO",
+        "epg_id": "TVPublica.ar@SD"
       },
       {
         "name": "TV PUBLICA Internacional",
@@ -509,7 +511,8 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/050.webp",
         "status": "true",
-        "NSFW": "NO"
+        "NSFW": "NO",
+        "epg_id": "TVPublica.ar@SD"
       },
       {
         "name": "TELEFE",
@@ -521,7 +524,9 @@
         "Referer": "https://portal.app.flow.com.py/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/051.webp",
-        "status": "true"
+        "status": "true",
+        "NSFW": "NO",
+        "epg_id": "Telefe.ar@SD"
       },
       {
         "name": "TELEFE INTERNACIONAL",
@@ -534,7 +539,8 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/052.webp",
         "status": "true",
-        "NSFW": "NO"
+        "NSFW": "NO",
+        "epg_id": "cl#telefe-internacional"
       },
       {
         "name": "ARGENTINISIMA SATELITAL",
@@ -546,7 +552,9 @@
         "Referer": "https://portal.app.flow.com.py/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/053.webp",
-        "status": "true"
+        "status": "true",
+        "NSFW": "NO",
+        "epg_id": "ArgentinisimaSatelital.ar@SD"
       },
       {
         "name": "AMERICA TV AR",
@@ -558,7 +566,9 @@
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/054.webp",
-        "status": "true"
+        "status": "true",
+        "NSFW": "NO",
+        "epg_id": "AmericaTV.ar@SD"
       },
       {
         "name": "EL TRECE",
@@ -570,7 +580,9 @@
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/055.webp",
-        "status": "true"
+        "status": "true",
+        "NSFW": "NO",
+        "epg_id": "ElTrece.ar@SD"
       },
       {
         "name": "EL TRECE INTERNACIONAL",
@@ -582,7 +594,9 @@
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/056.webp",
-        "status": "true"
+        "status": "true",
+        "NSFW": "NO",
+        "epg_id": "13_de_argentina_internacional"
       },
       {
         "name": "EL NUEVE",
