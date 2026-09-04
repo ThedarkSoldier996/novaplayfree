@@ -1166,7 +1166,7 @@
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/098.webp",
           "url": "https://azt-oo-runtime.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8",
           "token": null,
-          "license_type": null,
+          "license_type": "clearkey",
           "license_key": null,
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
@@ -1219,8 +1219,8 @@
         {
           "name": "ESPN SUR",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/102.webp",
-          "url": "https://cdn-token.app.flow.com.ar/cdntoken/v2/generator?path=https://cdn-flow-balancer.app.flow.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxNTc1NTM3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0VTUE4yX1BZL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJhNTQ1YzZkODk5NDk1ZDU4Iiwic2Vzc2lvbl9pZCI6IjYyNDM0NGNhY2VkMDdiNGZjNWYyNzU1YTZkMjI2MzdiLTE3ODE0MDI3MzctNjUyIiwiY2xpZW50X2lkIjoiZmxvdzo2MDcyNzA3LS1mbG93OjYwNzI3MDc6UCIsImRldmljZV9pZCI6IjYyNDM0NGNhY2VkMDdiNGZjNWYyNzU1YTZkMjI2MzdiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjE5Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.Eok0u3xCiLSHirL6CRxGgRQEBag0odUVfZmZn5e3gn8P9wagmLZhvQQaIMoJkPrPt_VsPsWM353-ukpup3CJMA/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
-          "token": null,
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
+          "token": "https://cdn.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_cenc/ESPN_UY.mpd",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPNSUR",
           "headers": {
@@ -1256,8 +1256,8 @@
         {
           "name": "ESPN 2 SUR",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/104.webp",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/ESPN2_UY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN2_UY.mpd",
-          "token": "https://cdn.cvattv.com.ar/live/c4eds/ESPN2_UY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN2_UY.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/ESPN2HD_Uy/SA_Live_dash_enc/ESPN2HD_Uy.mpd",
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/ESPN2HD_Uy/SA_Live_dash_cenc/ESPN2HD_Uy.mpd",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN2SUR",
           "headers": {

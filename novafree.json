@@ -98,11 +98,12 @@
       },
       {
         "name": "UNICANAL",
-        "epg_id": "Unicanal.py@SD",
+        "epg_id": "py#unicanal",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
+        "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_UnicanalPY",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
@@ -152,7 +153,7 @@
       },
       {
         "name": "PARAVISION",
-        "epg_id": "Paravision.py@SD",
+        "epg_id": "py#canal-5-paravision",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -389,7 +390,7 @@
         "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
         "type": "CLEARKEY",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/030.webp",
-        "epg_url": "https://raw.githubusercontent.com/novaplaytv/novaimg/refs/heads/main/epg_notweb/tvmax.xml"
+        "epg_url": "https://raw.githubusercontent.com/novaplaytv/novaimg/main/epg_notweb/tvmax.xml"
       },
       {
         "name": "TVS ENCARNACIÓN",
@@ -993,9 +994,12 @@
       },
       {
         "name": "AZTECA 1",
+        "epg_id": "azteca_uno_1h",
         "info": "-1 HORA",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://azt-oo-runtime.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8",
+        "type": "CLEARKEY",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/098.webp"
       }
     ]
@@ -1046,9 +1050,11 @@
       },
       {
         "name": "ESPN SUR",
+        "epg_id": "ar#espn-2",
+        "flow": "yes",
         "NSFW": "NO",
-        "status": "false",
-        "url": "https://cdn-token.app.flow.com.ar/cdntoken/v2/generator?path=https://cdn-flow-balancer.app.flow.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxNTc1NTM3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0VTUE4yX1BZL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJhNTQ1YzZkODk5NDk1ZDU4Iiwic2Vzc2lvbl9pZCI6IjYyNDM0NGNhY2VkMDdiNGZjNWYyNzU1YTZkMjI2MzdiLTE3ODE0MDI3MzctNjUyIiwiY2xpZW50X2lkIjoiZmxvdzo2MDcyNzA3LS1mbG93OjYwNzI3MDc6UCIsImRldmljZV9pZCI6IjYyNDM0NGNhY2VkMDdiNGZjNWYyNzU1YTZkMjI2MzdiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjE5Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.Eok0u3xCiLSHirL6CRxGgRQEBag0odUVfZmZn5e3gn8P9wagmLZhvQQaIMoJkPrPt_VsPsWM353-ukpup3CJMA/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
+        "status": "true",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPNSUR",
         "Origin": "https://portal.app.flow.com.ar",
@@ -1058,6 +1064,7 @@
       },
       {
         "name": "ESPN SUR",
+        "epg_id": "ar#espn-2",
         "info": "#2",
         "NSFW": "NO",
         "status": "true",
@@ -1069,12 +1076,11 @@
       },
       {
         "name": "ESPN 2 AR",
-        "epg_id": "ar#espn-2",
+        "epg_id": "espn_2_argentina",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
-        "url2": "http://38.226.49.253:8000/play/a06g/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ESPN2Ar",
         "Origin": "https://portal.app.flow.com.ar",
@@ -1084,21 +1090,21 @@
       },
       {
         "name": "ESPN 2 SUR",
-        "epg_id": "espn_2_paraguay",
+        "epg_id": "espn_2_argentina",
         "flow": "yes",
         "NSFW": "NO",
-        "status": "false",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/ESPN2_UY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN2_UY.mpd",
+        "status": "true",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/ESPN2HD_Uy/SA_Live_dash_enc/ESPN2HD_Uy.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN2SUR",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/104.webp"
       },
       {
         "name": "ESPN 2 SUR",
-        "epg_id": "espn_2_paraguay",
+        "epg_id": "espn_2_argentina",
         "info": "#2",
         "NSFW": "NO",
         "status": "true",
@@ -1109,10 +1115,11 @@
       },
       {
         "name": "ESPN 3 AR",
+        "epg_id": "espn_3_argentina",
         "flow": "yes",
+        "NSFW": "NO",
         "status": "false",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
-        "url2": "http://38.226.49.253:8000/play/a07g/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ESPN3Ar",
         "Origin": "https://portal.app.flow.com.ar",
@@ -1122,7 +1129,7 @@
       },
       {
         "name": "ESPN 3 SUR",
-        "epg_id": "py#espn-3",
+        "epg_id": "espn_3_argentina",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -1136,7 +1143,7 @@
       },
       {
         "name": "ESPN 3 SUR",
-        "epg_id": "py#espn-3",
+        "epg_id": "espn_3_argentina",
         "info": "#2",
         "NSFW": "NO",
         "status": "true",
@@ -1147,7 +1154,9 @@
       },
       {
         "name": "ESPN 4 AR",
+        "epg_id": "lch3867",
         "flow": "yes",
+        "NSFW": "NO",
         "status": "false",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
         "url2": "http://38.226.49.253:8000/play/a065/index.m3u8",
@@ -1160,7 +1169,7 @@
       },
       {
         "name": "ESPN 4 SUR",
-        "epg_id": "espn_4_paraguay",
+        "epg_id": "lch3867",
         "NSFW": "NO",
         "status": "true",
         "url": "https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/manifest.mpd",
@@ -1170,10 +1179,11 @@
       },
       {
         "name": "ESPN 5 SUR",
+        "epg_id": "lch2743",
         "flow": "yes",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
-        "url2": "http://38.226.49.253:8000/play/a078/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN5SUR",
         "Origin": "https://portal.app.flow.com.ar",
@@ -1183,10 +1193,11 @@
       },
       {
         "name": "ESPN 6 SUR",
+        "epg_id": "lch2296",
         "flow": "yes",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd",
-        "url2": "http://38.226.49.253:8000/play/a05p/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN6SUR",
         "Origin": "https://portal.app.flow.com.ar",
@@ -1197,10 +1208,11 @@
       },
       {
         "name": "ESPN 7 SUR",
+        "epg_id": "lch2295",
         "flow": "yes",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
-        "url2": "http://38.226.49.253:8000/play/a087/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN7SUR",
         "Origin": "https://portal.app.flow.com.ar",
