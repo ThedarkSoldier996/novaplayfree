@@ -115,11 +115,12 @@
         "flow": "yes",
         "NSFW": "NO",
         "status": "false",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/TELEFUTURO_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TELEFUTURO_C4.mpd",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
+        "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TelefuturoPY",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/010.webp"
       },
       {
@@ -154,12 +155,13 @@
         "epg_id": "Paravision.py@SD",
         "flow": "yes",
         "NSFW": "NO",
-        "status": "false",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/PARAVISION_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/PARAVISION_C4.mpd",
+        "status": "true",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
+        "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_Paravision",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/013.webp"
       },
       {
@@ -256,13 +258,13 @@
         "name": "MEGATV",
         "flow": "yes",
         "NSFW": "NO",
-        "status": "false",
+        "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Mega_TV/SA_Live_dash_enc/Mega_TV.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_MEGATVPY",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/021.webp"
       },
       {
@@ -379,12 +381,15 @@
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/029.webp"
       },
       {
-        "name": "TV MAX CNEL OVIEDO",
-        "epg_id": "Canal5TVMax.py",
+        "name": "TV MAX",
+        "epg_id": "TVMAX.py",
+        "info": "CANAL 5",
         "NSFW": "NO",
         "status": "true",
         "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/030.webp"
+        "type": "CLEARKEY",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/030.webp",
+        "epg_url": "https://raw.githubusercontent.com/novaplaytv/novaimg/refs/heads/main/epg_notweb/tvmax.xml"
       },
       {
         "name": "TVS ENCARNACIÓN",
@@ -515,20 +520,6 @@
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/049.webp"
       },
       {
-        "name": "TV PUBLICA Internacional",
-        "epg_id": "TVPublica.ar@SD",
-        "flow": "yes",
-        "NSFW": "NO",
-        "status": "false",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/TV_Publica_Internacional/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TV_Publica_Internacional.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_TvPublicaInternacional",
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/050.webp"
-      },
-      {
         "name": "TELEFE",
         "epg_id": "Telefe.ar@SD",
         "flow": "yes",
@@ -547,13 +538,13 @@
         "epg_id": "cl#telefe-internacional",
         "flow": "yes",
         "NSFW": "NO",
-        "status": "false",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/Telefe_Internacional/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Telefe_Internacional.mpd",
+        "status": "true",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/Telefe_Internacional/SA_Live_dash_enc/Telefe_Internacional.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TelefeInternacionalAr",
         "Origin": "https://portal.app.flow.com.py",
         "Referer": "https://portal.app.flow.com.py/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/052.webp"
       },
       {
@@ -586,16 +577,16 @@
       },
       {
         "name": "EL TRECE",
-        "epg_id": "ElTrece.ar@SD",
+        "epg_id": "cl#el-trece-internacional",
         "flow": "yes",
         "NSFW": "NO",
-        "status": "false",
+        "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ElTreceAr",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "User-Agent": "Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/055.webp"
       },
       {
@@ -3853,28 +3844,6 @@
         "loop": "true",
         "loader": "yes",
         "nsfw": "yes"
-      },
-      {
-        "name": "TRECE TESTING",
-        "flow": "yes",
-        "NSFW": "NO",
-        "status": "true",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/RPC_C4/SA_Live_dash_widevine/RPC_C4.mpd",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TrecePY",
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/442.webp"
-      },
-      {
-        "name": "Adult Swim",
-        "epg_id": "truTVLatinAmerica.us@SD",
-        "NSFW": "NO",
-        "status": "true",
-        "url": "https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/trutv/output.mpd",
-        "type": "widevine",
-        "drm_license_uri": "https://drm.mc.rocstar.tv/widevine/license?drmToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzUxMiJ9.eyJzdWIiOiIyMjY1MyIsInJvbGVzIjpbXSwibmFtZSI6Im51bGwgbnVsbCIsImN1c3RvbWVySWQiOjIxNzAyLCJleHAiOjE3NzkwNjExMzAsInR5cGUiOiJBVVRIT1JJWkFUSU9OIiwidXNlcklkIjoyMjY1MywicHJvZHVjdHMiOiJbIDc0LCAzMjcsIDI1NCwgMjEwIF0ifQ.UDWOGyBug_KgQLhBPqyZZAxEmcbdA3iQ7IhC4EDpa35pIoUPlasBeNdiQT0cJdOhzSacEEf9OZ_nx0wF5zhOcb7wKHoWZfcvSINn8br8NVGnQHQJz6UqE5nQUKOpjFJrLhb-gRQMDf5VhkuZYnOXFl5i7wfEkaU4VzrIRU0bI-WOffgNXq9KT0jU6Pm9pXhkB3JfX04jvSRYFrVQKUwVUjCXr56pwChdbKqPJg70gr7-kGTkQqFnRyywTaZTzeeGNj5lZPqeY3UH3NDy69QgjES7k4-LQjXkRqsIZOokhPlExIdj8n5sDrrwhHi1ndQLNLFIeeEAL2xgrW0Y8tYeUw",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/152.webp"
       }
     ]
   }

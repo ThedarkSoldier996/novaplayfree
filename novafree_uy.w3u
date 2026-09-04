@@ -116,8 +116,8 @@
         {
           "name": "TELEFUTURO",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/010.webp",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/TELEFUTURO_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TELEFUTURO_C4.mpd",
-          "token": "https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TELEFUTURO_C4.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
+          "token": "https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_cenc/TELEFUTURO_C4.mpd",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TelefuturoPY",
           "headers": {
@@ -155,8 +155,8 @@
         {
           "name": "PARAVISION",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/013.webp",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/PARAVISION_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/PARAVISION_C4.mpd",
-          "token": "https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/PARAVISION_C4.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
+          "token": "https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_cenc/PARAVISION_C4.mpd",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_Paravision",
           "headers": {
@@ -396,11 +396,11 @@
           }
         },
         {
-          "name": "TV MAX CNEL OVIEDO",
+          "name": "TV MAX",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/030.webp",
           "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
           "token": null,
-          "license_type": null,
+          "license_type": "clearkey",
           "license_key": null,
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
@@ -601,19 +601,6 @@
           }
         },
         {
-          "name": "TV PUBLICA Internacional",
-          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/050.webp",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/TV_Publica_Internacional/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TV_Publica_Internacional.mpd",
-          "token": "https://cdn.cvattv.com.ar/live/c4eds/TV_Publica_Internacional/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TV_Publica_Internacional.mpd",
-          "license_type": "clearkey",
-          "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_TvPublicaInternacional",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Referer": "https://portal.app.flow.com.uy/",
-            "Origin": "https://portal.app.flow.com.uy"
-          }
-        },
-        {
           "name": "TELEFE",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/051.webp",
           "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/TelefeHD/SA_Live_dash_enc_wl/TelefeHD.mpd",
@@ -629,8 +616,8 @@
         {
           "name": "TELEFE INTERNACIONAL",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/052.webp",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/Telefe_Internacional/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Telefe_Internacional.mpd",
-          "token": "https://cdn.cvattv.com.ar/live/c4eds/Telefe_Internacional/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Telefe_Internacional.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/Telefe_Internacional/SA_Live_dash_enc/Telefe_Internacional.mpd",
+          "token": "https://cdn.cvattv.com.ar/live/c4eds/Telefe_Internacional/SA_Live_dash_cenc/Telefe_Internacional.mpd",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TelefeInternacionalAr",
           "headers": {
@@ -5178,30 +5165,6 @@
           "token": null,
           "license_type": null,
           "license_key": null,
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-          }
-        },
-        {
-          "name": "TRECE TESTING",
-          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/442.webp",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/RPC_C4/SA_Live_dash_widevine/RPC_C4.mpd",
-          "token": "https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_widevine/RPC_C4.mpd",
-          "license_type": "clearkey",
-          "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TrecePY",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Referer": "https://portal.app.flow.com.uy/",
-            "Origin": "https://portal.app.flow.com.uy"
-          }
-        },
-        {
-          "name": "Adult Swim",
-          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/152.webp",
-          "url": "https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/trutv/output.mpd",
-          "token": null,
-          "license_type": "widevine",
-          "license_key": "https://drm.mc.rocstar.tv/widevine/license?drmToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzUxMiJ9.eyJzdWIiOiIyMjY1MyIsInJvbGVzIjpbXSwibmFtZSI6Im51bGwgbnVsbCIsImN1c3RvbWVySWQiOjIxNzAyLCJleHAiOjE3NzkwNjExMzAsInR5cGUiOiJBVVRIT1JJWkFUSU9OIiwidXNlcklkIjoyMjY1MywicHJvZHVjdHMiOiJbIDc0LCAzMjcsIDI1NCwgMjEwIF0ifQ.UDWOGyBug_KgQLhBPqyZZAxEmcbdA3iQ7IhC4EDpa35pIoUPlasBeNdiQT0cJdOhzSacEEf9OZ_nx0wF5zhOcb7wKHoWZfcvSINn8br8NVGnQHQJz6UqE5nQUKOpjFJrLhb-gRQMDf5VhkuZYnOXFl5i7wfEkaU4VzrIRU0bI-WOffgNXq9KT0jU6Pm9pXhkB3JfX04jvSRYFrVQKUwVUjCXr56pwChdbKqPJg70gr7-kGTkQqFnRyywTaZTzeeGNj5lZPqeY3UH3NDy69QgjES7k4-LQjXkRqsIZOokhPlExIdj8n5sDrrwhHi1ndQLNLFIeeEAL2xgrW0Y8tYeUw",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
           }
