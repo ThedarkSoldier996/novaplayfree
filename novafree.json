@@ -417,8 +417,8 @@
         "name": "FARRATV",
         "status": "true",
         "url": "http://159.203.148.226/live/farra_src.m3u8",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/035.webp",
-        "url2": "http://138.59.227.20:8000/play/a0gj/index.m3u8"
+        "url2": "http://138.59.227.20:8000/play/a0gj/index.m3u8",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/035.webp"
       },
       {
         "name": "XPRESSTV",
@@ -457,8 +457,8 @@
         "name": "CANAL 8",
         "status": "true",
         "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/043.webp",
         "url2": "http://138.59.227.20:8000/play/a0fy/index.m3u8",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/043.webp",
         "texto": "Conectados con la Realidad"
       },
       {
@@ -767,8 +767,8 @@
         "info": "Radio FM/TV",
         "status": "true",
         "url": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/071.webp",
-        "url2": "http://138.59.227.20:8000/play/a0ek/index.m3u8"
+        "url2": "http://138.59.227.20:8000/play/a0ek/index.m3u8",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/071.webp"
       },
       {
         "name": "CANAL 13",
@@ -1018,13 +1018,13 @@
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
+        "url2": "http://38.226.49.253:8000/play/a07l/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ESPN1Ar",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/101.webp",
-        "url2": "http://38.226.49.253:8000/play/a07l/index.m3u8"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/101.webp"
       },
       {
         "name": "ESPN SUR",
@@ -1044,13 +1044,13 @@
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
+        "url2": "http://38.226.49.253:8000/play/a06g/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ESPN2Ar",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/103.webp",
-        "url2": "http://38.226.49.253:8000/play/a06g/index.m3u8"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/103.webp"
       },
       {
         "name": "ESPN 2 SUR",
@@ -1070,13 +1070,13 @@
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
+        "url2": "http://38.226.49.253:8000/play/a07g/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ESPN3Ar",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/105.webp",
-        "url2": "http://38.226.49.253:8000/play/a07g/index.m3u8"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/105.webp"
       },
       {
         "name": "ESPN 3 SUR",
@@ -1095,39 +1095,39 @@
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
+        "url2": "http://38.226.49.253:8000/play/a065/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ESPN4Ar",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/107.webp",
-        "url2": "http://38.226.49.253:8000/play/a065/index.m3u8"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/107.webp"
       },
       {
         "name": "ESPN 5 SUR",
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
+        "url2": "http://38.226.49.253:8000/play/a078/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN5SUR",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/108.webp",
-        "url2": "http://38.226.49.253:8000/play/a078/index.m3u8"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/108.webp"
       },
       {
         "name": "ESPN 6 SUR",
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd",
+        "url2": "http://38.226.49.253:8000/play/a05p/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN6SUR",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/109.webp",
-        "url2": "http://38.226.49.253:8000/play/a05p/index.m3u8",
         "url3": "http://38.210.3.64:8090/play/a0dj/index.m3u8"
       },
       {
@@ -1135,13 +1135,13 @@
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
+        "url2": "http://38.226.49.253:8000/play/a087/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN7SUR",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/110.webp",
-        "url2": "http://38.226.49.253:8000/play/a087/index.m3u8"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/110.webp"
       },
       {
         "name": "ESPN PREMIUM AR",
@@ -1150,13 +1150,13 @@
         "NSFW": "NO",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+        "url2": "http://200.112.174.230/mtcast_espnpremiumhd/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ESPNPREMIUNAR",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/111.webp",
-        "url2": "http://200.112.174.230/mtcast_espnpremiumhd/index.m3u8"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/111.webp"
       },
       {
         "name": "FOX DEPORTES",
@@ -1178,13 +1178,13 @@
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
+        "url2": "http://138.59.227.20:8000/play/a085/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_FoxSportsAr",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/114.webp",
-        "url2": "http://138.59.227.20:8000/play/a085/index.m3u8",
         "url3": "http://190.7.19.197:232/play/a05u/index.m3u8"
       },
       {
@@ -1200,13 +1200,13 @@
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
+        "url2": "http://138.59.227.20:8000/play/a09b/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_FoxSports2Ar",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/116.webp",
-        "url2": "http://138.59.227.20:8000/play/a09b/index.m3u8",
         "url3": "http://190.7.19.197:232/play/a03p/index.m3u8"
       },
       {
@@ -1222,13 +1222,13 @@
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
+        "url2": "http://138.59.227.20:8000/play/a06y/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_FoxSports3Ar",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/118.webp",
-        "url2": "http://138.59.227.20:8000/play/a06y/index.m3u8",
         "url3": "http://190.7.19.197:232/play/a04x/index.m3u8"
       },
       {
@@ -1262,8 +1262,8 @@
         "name": "BEIN SPORTS XTRA Ñ",
         "status": "true",
         "url": "https://bein-esp-xumo.amagi.tv/playlist.m3u8",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/124.webp",
         "url2": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-tcl/playlist.m3u8",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/124.webp",
         "url3": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol1080.m3u8"
       },
       {
@@ -1280,13 +1280,13 @@
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
+        "url2": "http://138.59.227.20:8000/play/a06z/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TNTSportsAr",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/126.webp",
-        "url2": "http://138.59.227.20:8000/play/a06z/index.m3u8"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/126.webp"
       },
       {
         "name": "TYC SPORTS",
@@ -1313,26 +1313,36 @@
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/128.webp"
       },
       {
-        "name": "DSPORTS ARGENTINA SD ",
+        "name": "DSPORTS ARGENTINA",
+        "info": "SD",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTS1SD",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/129.webp",
-        "url2": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/428666"
+        "Referer": "https://www.primevideo.com/",
+        "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/451.webp"
       },
       {
-        "name": "DSPORTS ARGENTINA HD",
+        "name": "DSPORTS ARGENTINA",
+        "info": "HD",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
+        "url2": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORT1",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/130.webp"
+        "drm_license_uri2": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTS1_V2",
+        "Referer": "https://www.primevideo.com/",
+        "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/451.webp"
       },
       {
         "name": "DSPORTS OPC 2",
         "flow": "yes",
-        "status": "true",
+        "NSFW": "NO",
+        "status": "false",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/DSports_1/SA_Live_dash_enc_wl/DSports_1.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_DsportsAr",
@@ -1342,25 +1352,46 @@
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/131.webp"
       },
       {
-        "name": "DSPORTS OPC 3",
+        "name": "DSPORTS ARGENTINA",
+        "info": "HI-FI AUDIO",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTSAQ",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/132.webp"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/451.webp"
       },
       {
-        "name": "DSPORTS OPC 4",
+        "name": "DSPORTS CHILE",
+        "epg_id": "6997",
+        "NSFW": "NO",
         "status": "true",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cardt9ai8g/out/v1/a85c58beee18435e82a57a0fb9d2f681/cenc.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTS1_V2",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/133.webp"
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/DSPORTSCHILE",
+        "Origin": "https://www.paramountplus.com",
+        "Referer": "https://www.paramountplus.com",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/451.webp"
+      },
+      {
+        "name": "DSPORTS COLOMBIA",
+        "epg_id": "6997",
+        "NSFW": "NO",
+        "status": "true",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
+        "url2": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/DSPORTSCOLOMBIA",
+        "drm_license_uri2": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTS1_COL",
+        "Referer": "https://www.primevideo.com/",
+        "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/451.webp"
       },
       {
         "name": "DSPORTS URUGUAY",
         "flow": "yes",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Dsports_UY/SA_Live_dash_enc/Dsports_UY.mpd",
         "type": "CLEARKEY",
@@ -1368,27 +1399,20 @@
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/134.webp"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/451.webp"
       },
       {
         "name": "DSPORT URUGUAY PREMIUM",
         "flow": "yes",
         "NSFW": "NO",
-        "status": "true",
+        "status": "false",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/DSports_Uruguay_Premium/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DSports_Uruguay_Premium.mpd",
+        "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DsportsUyPREMIUM",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/447.webp"
-      },
-      {
-        "name": "DSPORTS COLOMBIA",
-        "status": "true",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTS1_COL",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/135.webp"
       },
       {
         "name": "DSPORTS 2 ARGENTINA",
@@ -1428,10 +1452,10 @@
         "name": "DSPORTS PLUS",
         "status": "true",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd",
+        "url2": "http://217.26.190.76:8888/play/a0jb/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTPLUS",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/141.webp",
-        "url2": "http://217.26.190.76:8888/play/a0jb/index.m3u8"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/141.webp"
       },
       {
         "name": "DSPORTS PLUS URUGUAY",
@@ -1596,13 +1620,13 @@
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_enc/Europa_Europa.mpd",
+        "url2": "http://190.7.19.197:232/play/a01o/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_Europax2",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/156.webp",
-        "url2": "http://190.7.19.197:232/play/a01o/index.m3u8"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/156.webp"
       },
       {
         "name": "AMC",
@@ -1638,8 +1662,8 @@
         "name": "RCN MÁS",
         "status": "true",
         "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/161.webp",
         "url2": "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/161.webp",
         "url3": "https://rcntv-rcnmas-1-us.tcl.wurl.tv/playlist.m3u8"
       },
       {
@@ -1653,65 +1677,65 @@
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
+        "url2": "http://38.226.49.253:8000/play/a07f/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TNTnovelas",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/163.webp",
-        "url2": "http://38.226.49.253:8000/play/a07f/index.m3u8"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/163.webp"
       },
       {
         "name": "STUDIO UNIVERSAL",
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Universal.mpd",
+        "url2": "http://38.97.240.11:8000/play/a0bl/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_StudioUniversal",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/164.webp",
-        "url2": "http://38.97.240.11:8000/play/a0bl/index.m3u8"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/164.webp"
       },
       {
         "name": "STAR CHANNEL HD",
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd",
+        "url2": "http://38.226.49.253:8000/play/a06q/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_StarChannel",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/165.webp",
-        "url2": "http://38.226.49.253:8000/play/a06q/index.m3u8"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/165.webp"
       },
       {
         "name": "SPACE HD",
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd",
+        "url2": "http://38.226.49.253:8000/play/a064/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_Space",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/166.webp",
-        "url2": "http://38.226.49.253:8000/play/a064/index.m3u8"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/166.webp"
       },
       {
         "name": "A&E",
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd",
+        "url2": "http://38.226.49.253:8000/play/a05m/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_A-E",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/167.webp",
-        "url2": "http://38.226.49.253:8000/play/a05m/index.m3u8",
         "url3": "http://38.226.49.253:8000/play/a05u/index.m3u8"
       },
       {
@@ -1721,39 +1745,39 @@
         "NSFW": "NO",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc/AXNHD.mpd",
+        "url2": "http://38.226.49.253:8000/play/a062/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_AXN",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/168.webp",
-        "url2": "http://38.226.49.253:8000/play/a062/index.m3u8"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/168.webp"
       },
       {
         "name": "FX",
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd",
+        "url2": "http://38.226.49.253:8000/play/a07c/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_FX",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/169.webp",
-        "url2": "http://38.226.49.253:8000/play/a07c/index.m3u8"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/169.webp"
       },
       {
         "name": "SONY CHANNEL",
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc/SonyHD.mpd",
+        "url2": "http://38.226.49.253:8000/play/a060/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_SonyChannel",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/170.webp",
-        "url2": "http://38.226.49.253:8000/play/a060/index.m3u8"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/170.webp"
       },
       {
         "name": "SONY ONE EXITOS",
@@ -1784,13 +1808,13 @@
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc/HistoryHD.mpd",
+        "url2": "http://38.226.49.253:8000/play/a0ge/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_History",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/175.webp",
-        "url2": "http://38.226.49.253:8000/play/a0ge/index.m3u8",
         "url3": "http://181.224.255.210:8001/play/a0m1/index.m3u8"
       },
       {
@@ -1813,26 +1837,26 @@
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc/AnimalPlanet.mpd",
+        "url2": "http://190.7.19.197:232/play/a081/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_AnimalPlanet",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/177.webp",
-        "url2": "http://190.7.19.197:232/play/a081/index.m3u8"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/177.webp"
       },
       {
         "name": "DISCOVERY",
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd",
+        "url2": "http://38.226.49.253:8000/play/a05s/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DiscoveryChannel",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/178.webp",
-        "url2": "http://38.226.49.253:8000/play/a05s/index.m3u8",
         "url3": "http://181.224.255.210:8001/play/a0m0/index.m3u8",
         "url4": "http://191.97.59.33:8000/play/a07h/index.m3u8"
       },
@@ -1841,13 +1865,13 @@
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc/DiscoveryHomeHealthHD.mpd",
+        "url2": "http://38.226.49.253:8000/play/a0an/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DiscoveryH-H",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/179.webp",
-        "url2": "http://38.226.49.253:8000/play/a0an/index.m3u8",
         "url3": "http://138.59.227.20:8000/play/a08f/index.m3u8",
         "url4": "http://190.7.19.197:232/play/a064/index.m3u8"
       },
@@ -1856,13 +1880,13 @@
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc/Theater_HD.mpd",
+        "url2": "http://38.226.49.253:8000/play/a06b/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DiscoveryTheater",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/180.webp",
-        "url2": "http://38.226.49.253:8000/play/a06b/index.m3u8",
         "url3": "http://cablemaxsigloxxi.com:8000/play/a06w/index.m3u8?hls"
       },
       {
@@ -1870,52 +1894,52 @@
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc/Discovery_Science.mpd",
+        "url2": "http://190.7.19.197:232/play/a04o/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DiscoveryScience",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/181.webp",
-        "url2": "http://190.7.19.197:232/play/a04o/index.m3u8"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/181.webp"
       },
       {
         "name": "DISCOVERY ID",
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/ID/SA_Live_dash_enc/ID.mpd",
+        "url2": "http://190.7.19.197:232/play/a083/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DiscoveryID",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/182.webp",
-        "url2": "http://190.7.19.197:232/play/a083/index.m3u8"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/182.webp"
       },
       {
         "name": "DISCOVERY TURBO",
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc/DiscoveryTurbo.mpd",
+        "url2": "http://38.226.49.253:8000/play/a05i/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DiscoveryTurbo",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/183.webp",
-        "url2": "http://38.226.49.253:8000/play/a05i/index.m3u8"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/183.webp"
       },
       {
         "name": "DISCOVERY WORLD",
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc/Discovery_World_HD.mpd",
+        "url2": "http://190.7.19.197:232/play/a055/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DiscoveryWorld",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/184.webp",
-        "url2": "http://190.7.19.197:232/play/a055/index.m3u8"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/184.webp"
       },
       {
         "name": "DISCOVERY TLC",
@@ -1934,13 +1958,13 @@
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc/Sun_Channel.mpd",
+        "url2": "http://38.226.49.253:8000/play/a06p/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_SUNCHANNEL",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/186.webp",
-        "url2": "http://38.226.49.253:8000/play/a06p/index.m3u8",
         "url3": "http://138.121.12.126:8000/play/a02u/index.m3u8"
       },
       {
@@ -1948,13 +1972,13 @@
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd",
+        "url2": "http://38.226.49.253:8000/play/a05x/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_NationalGeographic",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/187.webp",
-        "url2": "http://38.226.49.253:8000/play/a05x/index.m3u8",
         "url3": "http://181.224.255.210:8001/play/a0m2/index.m3u8"
       },
       {
@@ -1974,13 +1998,13 @@
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc/Lifetime.mpd",
+        "url2": "http://38.226.49.253:8000/play/a043/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Lifetime",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/189.webp",
-        "url2": "http://38.226.49.253:8000/play/a043/index.m3u8"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/189.webp"
       }
     ]
   },
@@ -1999,8 +2023,8 @@
         "name": "RTVE 24H",
         "status": "true",
         "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/191.webp",
-        "url2": "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8"
+        "url2": "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/191.webp"
       },
       {
         "name": "CNN EN ESPAÑOL",
@@ -2064,10 +2088,10 @@
         "name": "LA 1",
         "status": "true",
         "url": "https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+        "url2": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/LA1ES",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/200.webp",
-        "url2": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/200.webp"
       },
       {
         "name": "VEVO LATINO",
@@ -2170,78 +2194,78 @@
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Plim_Plim/SA_Live_dash_enc/Plim_Plim.mpd",
+        "url2": "http://8.243.126.131:8000/play/a0od/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_PlimPlim",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/215.webp",
-        "url2": "http://8.243.126.131:8000/play/a0od/index.m3u8"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/215.webp"
       },
       {
         "name": "CARTOON NETWORK",
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd",
+        "url2": "http://8.243.126.131:8000/play/a0f2/index.m3u8?hls",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_CartoonNetwork",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/216.webp",
-        "url2": "http://8.243.126.131:8000/play/a0f2/index.m3u8?hls"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/216.webp"
       },
       {
         "name": "CARTOONITO",
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd",
+        "url2": "http://8.243.126.131:8000/play/a05p/index.m3u8?hls",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Cartoonito",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/217.webp",
-        "url2": "http://8.243.126.131:8000/play/a05p/index.m3u8?hls"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/217.webp"
       },
       {
         "name": "DISCOVERY KIDS",
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd",
+        "url2": "http://8.243.126.131:8000/play/a05n/index.m3u8?hls",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DiscoveryKids",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/218.webp",
-        "url2": "http://8.243.126.131:8000/play/a05n/index.m3u8?hls"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/218.webp"
       },
       {
         "name": "DISNEY CHANNEL",
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd",
+        "url2": "http://190.7.19.197:232/play/a04v/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DisneyChannel",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/219.webp",
-        "url2": "http://190.7.19.197:232/play/a04v/index.m3u8"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/219.webp"
       },
       {
         "name": "DISNEY JR ",
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc/DisneyJr.mpd",
+        "url2": "http://38.226.49.253:8000/play/a05h/index.m3u8?hls",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DisneyJR",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/220.webp",
-        "url2": "http://38.226.49.253:8000/play/a05h/index.m3u8?hls"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/220.webp"
       },
       {
         "name": "DREAMWORKS",
@@ -2284,26 +2308,26 @@
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd",
+        "url2": "http://190.7.19.197:232/play/a01n/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_NickJr",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/224.webp",
-        "url2": "http://190.7.19.197:232/play/a01n/index.m3u8"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/224.webp"
       },
       {
         "name": "NICKELODEON",
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd",
+        "url2": "http://190.7.19.197:232/play/a03e/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Nickelodeon",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/225.webp",
-        "url2": "http://190.7.19.197:232/play/a03e/index.m3u8"
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/225.webp"
       },
       {
         "name": "PAKA PAKA",
@@ -2322,13 +2346,13 @@
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd",
+        "url2": "http://38.188.48.83:8000/play/a0qp/index.m3u8?hls",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Tooncast",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/227.webp",
-        "url2": "http://38.188.48.83:8000/play/a0qp/index.m3u8?hls",
         "url3": "http://38.226.49.253:8000/play/a03u/index.m3u8?hls"
       },
       {
@@ -3668,14 +3692,14 @@
         "flow": "yes",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd",
+        "url2": "http://38.226.49.253:8000/play/a0e6/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Playboy",
         "Origin": "https://portal.app.flow.com.py",
         "Referer": "https://portal.app.flow.com.py/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/437.webp",
-        "nsfw": "yes",
-        "url2": "http://38.226.49.253:8000/play/a0e6/index.m3u8"
+        "nsfw": "yes"
       },
       {
         "name": "VENUS",
@@ -3755,17 +3779,14 @@
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/442.webp"
       },
       {
-        "name": "TELEFUTURO",
-        "epg_id": "Telefuturo.py@SD",
-        "flow": "yes",
+        "name": "Adult Swim",
+        "epg_id": "truTVLatinAmerica.us@SD",
         "NSFW": "NO",
         "status": "true",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd?",
-        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/NovaplayTestingChannels",
-        "Origin": "https://portal.app.flow.com.ar",
-        "Referer": "https://portal.app.flow.com.ar/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/010.webp"
+        "url": "https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/trutv/output.mpd",
+        "type": "widevine",
+        "drm_license_uri": "https://drm.mc.rocstar.tv/widevine/license?drmToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzUxMiJ9.eyJzdWIiOiIyMjY1MyIsInJvbGVzIjpbXSwibmFtZSI6Im51bGwgbnVsbCIsImN1c3RvbWVySWQiOjIxNzAyLCJleHAiOjE3NzkwNjExMzAsInR5cGUiOiJBVVRIT1JJWkFUSU9OIiwidXNlcklkIjoyMjY1MywicHJvZHVjdHMiOiJbIDc0LCAzMjcsIDI1NCwgMjEwIF0ifQ.UDWOGyBug_KgQLhBPqyZZAxEmcbdA3iQ7IhC4EDpa35pIoUPlasBeNdiQT0cJdOhzSacEEf9OZ_nx0wF5zhOcb7wKHoWZfcvSINn8br8NVGnQHQJz6UqE5nQUKOpjFJrLhb-gRQMDf5VhkuZYnOXFl5i7wfEkaU4VzrIRU0bI-WOffgNXq9KT0jU6Pm9pXhkB3JfX04jvSRYFrVQKUwVUjCXr56pwChdbKqPJg70gr7-kGTkQqFnRyywTaZTzeeGNj5lZPqeY3UH3NDy69QgjES7k4-LQjXkRqsIZOokhPlExIdj8n5sDrrwhHi1ndQLNLFIeeEAL2xgrW0Y8tYeUw",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/152.webp"
       }
     ]
   }

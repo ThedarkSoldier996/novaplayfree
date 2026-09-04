@@ -1529,25 +1529,27 @@
           }
         },
         {
-          "name": "DSPORTS ARGENTINA SD ",
-          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/129.webp",
+          "name": "DSPORTS ARGENTINA",
+          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/451.webp",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
           "token": null,
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTS1SD",
           "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Referer": "https://www.primevideo.com/"
           }
         },
         {
-          "name": "DSPORTS ARGENTINA HD",
-          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/130.webp",
+          "name": "DSPORTS ARGENTINA",
+          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/451.webp",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
           "token": null,
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORT1",
           "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Referer": "https://www.primevideo.com/"
           }
         },
         {
@@ -1564,8 +1566,8 @@
           }
         },
         {
-          "name": "DSPORTS OPC 3",
-          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/132.webp",
+          "name": "DSPORTS ARGENTINA",
+          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/451.webp",
           "url": "https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
           "token": null,
           "license_type": "clearkey",
@@ -1575,19 +1577,33 @@
           }
         },
         {
-          "name": "DSPORTS OPC 4",
-          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/133.webp",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "name": "DSPORTS CHILE",
+          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/451.webp",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cardt9ai8g/out/v1/a85c58beee18435e82a57a0fb9d2f681/cenc.mpd",
           "token": null,
           "license_type": "clearkey",
-          "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTS1_V2",
+          "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/DSPORTSCHILE",
           "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Referer": "https://www.paramountplus.com",
+            "Origin": "https://www.paramountplus.com"
+          }
+        },
+        {
+          "name": "DSPORTS COLOMBIA",
+          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/451.webp",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
+          "token": null,
+          "license_type": "clearkey",
+          "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/DSPORTSCOLOMBIA",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Referer": "https://www.primevideo.com/"
           }
         },
         {
           "name": "DSPORTS URUGUAY",
-          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/134.webp",
+          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/451.webp",
           "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Dsports_UY/SA_Live_dash_enc/Dsports_UY.mpd",
           "token": "https://cdn.cvattv.com.ar/live/c7eds/Dsports_UY/SA_Live_dash_cenc/Dsports_UY.mpd",
           "license_type": "clearkey",
@@ -1609,17 +1625,6 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Referer": "https://portal.app.flow.com.uy/",
             "Origin": "https://portal.app.flow.com.uy"
-          }
-        },
-        {
-          "name": "DSPORTS COLOMBIA",
-          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/135.webp",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
-          "token": null,
-          "license_type": "clearkey",
-          "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTS1_COL",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
           }
         },
         {
@@ -5158,16 +5163,14 @@
           }
         },
         {
-          "name": "TELEFUTURO",
-          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/010.webp",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd?",
-          "token": "https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_cenc/TELEFUTURO_C4.mpd?",
-          "license_type": "clearkey",
-          "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/NovaplayTestingChannels",
+          "name": "Adult Swim",
+          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/152.webp",
+          "url": "https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/trutv/output.mpd",
+          "token": null,
+          "license_type": "widevine",
+          "license_key": "https://drm.mc.rocstar.tv/widevine/license?drmToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzUxMiJ9.eyJzdWIiOiIyMjY1MyIsInJvbGVzIjpbXSwibmFtZSI6Im51bGwgbnVsbCIsImN1c3RvbWVySWQiOjIxNzAyLCJleHAiOjE3NzkwNjExMzAsInR5cGUiOiJBVVRIT1JJWkFUSU9OIiwidXNlcklkIjoyMjY1MywicHJvZHVjdHMiOiJbIDc0LCAzMjcsIDI1NCwgMjEwIF0ifQ.UDWOGyBug_KgQLhBPqyZZAxEmcbdA3iQ7IhC4EDpa35pIoUPlasBeNdiQT0cJdOhzSacEEf9OZ_nx0wF5zhOcb7wKHoWZfcvSINn8br8NVGnQHQJz6UqE5nQUKOpjFJrLhb-gRQMDf5VhkuZYnOXFl5i7wfEkaU4VzrIRU0bI-WOffgNXq9KT0jU6Pm9pXhkB3JfX04jvSRYFrVQKUwVUjCXr56pwChdbKqPJg70gr7-kGTkQqFnRyywTaZTzeeGNj5lZPqeY3UH3NDy69QgjES7k4-LQjXkRqsIZOokhPlExIdj8n5sDrrwhHi1ndQLNLFIeeEAL2xgrW0Y8tYeUw",
           "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Referer": "https://portal.app.flow.com.uy/",
-            "Origin": "https://portal.app.flow.com.uy"
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
           }
         }
       ]
