@@ -24,7 +24,7 @@
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/002.webp",
           "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index.m3u8",
           "token": null,
-          "license_type": null,
+          "license_type": "clearkey",
           "license_key": null,
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -37,7 +37,7 @@
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/novasports.webp",
           "url": "https://lbgo.bozztv.com/ssh101/ssh101/novasports001/playlist.m3u8",
           "token": null,
-          "license_type": null,
+          "license_type": "clearkey",
           "license_key": null,
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
@@ -411,7 +411,7 @@
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/031.webp",
           "url": "https://stmv6.voxtvhd.com.br:443/tvs/tvs/playlist.m3u8",
           "token": null,
-          "license_type": null,
+          "license_type": "clearkey",
           "license_key": null,
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
@@ -1029,7 +1029,7 @@
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/086.webp",
           "url": "https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8",
           "token": null,
-          "license_type": null,
+          "license_type": "clearkey",
           "license_key": null,
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
@@ -1078,7 +1078,7 @@
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/090.webp",
           "url": "https://amg00658-amg00658c65-canelatv-international-5541.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00658-canelamediafast-canal6decdmxmultimediosta-canelatvinternational/cb563f16657765909ccb2167d4f362ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5daf6852db80148b6f4adafb8c2360625f5c98435ee3b24af2aae75b47db69a9ac4e1b9d2658e68314c9c94eb8d1dc469a458376f540cbc4a3dad14188b8ab51f004905c633e0b5cbbd134c49331dcbf9966298c705a257434b6f9ec9424299578534ef1e9cabc7c8d62a4e62b946c3b84158b709422837dab0abebb39cac2bfda54483aa1fb576029a7f0a18dfe4757d704feb1b390191f9dff100a01a329de70296cc8f99f44c9914cc2e26ed1e53e4e75c1c610cbd0e486eae6da1e98239e9fa19e67292400080f922fc6f00ff5088708c2a61a275d7250b48a50b6e2b33c1e4315ffea34d5030b86d99e8ddb023eb80b7133eb61d75e096d82207a269047949b2c7cb6351e8a2738c44d278c3098d24edb86818f6c58b1d0d3309c058ee5508e9c61bc7f302b57d9a1244b515c6e8aa1291a276e8d46e5ddcfed764714fab8ddf2c14a3d1576145a0d85ece27cd48dc1271c1a971e22653913139b1ce469b578218185547ca9ce3c47c76b1423efb33a591a5f82c9a58494a4b22ed751f2bf30bdb259230e933c1732669397805cef31487f003dca6f3605d58f3d3369503241d9004ceee5fc99bba7ef77fd505d2e285f767103989127f456eb901cbe94f091ad85823f4a9f35af0d11d185923cb8a5b6ce410b9fbd445949a39376953d7d9c57e32286842483f04d5048750069d29e58fa68bcddb1ce3fd579fe184d2dbc38f3b7cb87fb4a1aa79d4338364972127c5979654c9bd2c76b0d7ea3ed73b413b6a505e71214003e41df900911d3bb2052cf630c15cfcafc82a3ce0c07d92ea525bb072d92175c7eaf9c42a9e9d4d4f588685805a3c68844a9ae85848c9b8a117705683f8cd21d3253dd35fb9808f1a77f25ba69ea1813b23f1318b548fd0dabedd7b44e8843d4e45089/95/854x480_1355200/index.m3u8",
           "token": null,
-          "license_type": null,
+          "license_type": "clearkey",
           "license_key": null,
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
@@ -1089,7 +1089,7 @@
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/091.webp",
           "url": "https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8",
           "token": null,
-          "license_type": null,
+          "license_type": "clearkey",
           "license_key": null,
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
@@ -1155,7 +1155,7 @@
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/097.webp",
           "url": "https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8",
           "token": null,
-          "license_type": null,
+          "license_type": "clearkey",
           "license_key": null,
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"

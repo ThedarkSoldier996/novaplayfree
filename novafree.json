@@ -5,7 +5,7 @@
     "items": [
       {
         "name": "TIGO SPORTS #1",
-        "epg_id": "py#tigo-sports",
+        "epg_id": "Tigo Sports.py",
         "info": "EVENTOS",
         "CH-events": "yes",
         "NSFW": "NO",
@@ -20,12 +20,13 @@
       },
       {
         "name": "TIGO SPORTS #2",
-        "epg_id": "py#tigo-sports",
+        "epg_id": "Tigo Sports.py",
         "info": "EVENTOS",
         "CH-events": "yes",
         "NSFW": "NO",
         "status": "true",
         "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index.m3u8",
+        "type": "CLEARKEY",
         "Origin": "https://www.tigosports.com.py",
         "Referer": "https://www.tigosports.com.py/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
@@ -33,10 +34,13 @@
       },
       {
         "name": "NOVASPORTS",
+        "epg_id": "NovaSports",
         "info": "EVENTOS",
         "CH-events": "yes",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/novasports001/playlist.m3u8",
+        "type": "CLEARKEY",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/novasports.webp"
       }
     ]
@@ -100,7 +104,7 @@
       },
       {
         "name": "UNICANAL",
-        "epg_id": "py#unicanal",
+        "epg_id": "Unicanal.py",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -115,7 +119,7 @@
       },
       {
         "name": "TELEFUTURO",
-        "epg_id": "Telefuturo.py@SD",
+        "epg_id": "Telefuturo.py",
         "flow": "yes",
         "NSFW": "NO",
         "status": "false",
@@ -129,11 +133,12 @@
       },
       {
         "name": "SNT",
-        "epg_id": "SNT.py@SD",
+        "epg_id": "SNT.py",
         "flow": "yes",
         "NSFW": "NO",
         "status": "false",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/SNT_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/SNT_C4.mpd",
+        "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_SNTPY",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
@@ -142,7 +147,7 @@
       },
       {
         "name": "C9N",
-        "epg_id": "C9N.py@SD",
+        "epg_id": "C9N.py",
         "flow": "yes",
         "NSFW": "NO",
         "status": "false",
@@ -156,7 +161,7 @@
       },
       {
         "name": "PARAVISION",
-        "epg_id": "py#canal-5-paravision",
+        "epg_id": "Paravisión.py",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -170,7 +175,7 @@
       },
       {
         "name": "ABC COLOR PY",
-        "epg_id": "py#abc-tv",
+        "epg_id": "ABC TV.py",
         "flow": "yes",
         "NSFW": "NO",
         "status": "false",
@@ -184,11 +189,12 @@
       },
       {
         "name": "LA TELE",
-        "epg_id": "Latele.py@SD",
+        "epg_id": "latele.py",
         "flow": "yes",
         "NSFW": "NO",
         "status": "false",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/LA_TELE_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/LA_TELE_C4.mpd",
+        "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_LaTelePY",
         "Origin": "https://portal.app.flow.com.py",
         "Referer": "https://portal.app.flow.com.py/",
@@ -197,11 +203,12 @@
       },
       {
         "name": "SUR TV",
-        "epg_id": "SURTVItapua.py@SD",
+        "epg_id": "Sur TV.py",
         "flow": "yes",
         "NSFW": "NO",
         "status": "false",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/SUR_TV_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/SUR_TV_C4.mpd",
+        "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_SurTVPY",
         "Origin": "https://portal.app.flow.com.py",
         "Referer": "https://portal.app.flow.com.py/",
@@ -210,7 +217,9 @@
       },
       {
         "name": "AMERICA PY",
+        "epg_id": "America 24.py",
         "flow": "yes",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/America_PY/SA_Live_dash_enc/America_PY.mpd",
         "type": "CLEARKEY",
@@ -287,11 +296,12 @@
       },
       {
         "name": "HEI NOW",
-        "epg_id": "py#hei-network",
+        "epg_id": "HEi Network HD.py",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/HEI_NOW/SA_Live_dash_enc/HEI_NOW.mpd",
+        "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_HeiNow",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
@@ -397,10 +407,11 @@
       },
       {
         "name": "TVS ENCARNACIÓN",
-        "epg_id": "py#tvs",
+        "epg_id": "TVS HD.py",
         "NSFW": "NO",
         "status": "true",
         "url": "https://stmv6.voxtvhd.com.br:443/tvs/tvs/playlist.m3u8",
+        "type": "CLEARKEY",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/031.webp"
       },
       {
@@ -511,7 +522,7 @@
     "items": [
       {
         "name": "TV PUBLICA",
-        "epg_id": "TVPublica.ar@SD",
+        "epg_id": "TVPublica.ar",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -525,7 +536,7 @@
       },
       {
         "name": "TELEFE",
-        "epg_id": "Telefe.ar@SD",
+        "epg_id": "Telefe.ar",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -539,7 +550,7 @@
       },
       {
         "name": "TELEFE INTERNACIONAL",
-        "epg_id": "cl#telefe-internacional",
+        "epg_id": "Telefe Internacional.py",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -553,7 +564,7 @@
       },
       {
         "name": "ARGENTINISIMA SATELITAL",
-        "epg_id": "ArgentinisimaSatelital.ar@SD",
+        "epg_id": "ArgentinisimaSatelital.ar",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -567,7 +578,7 @@
       },
       {
         "name": "AMERICA TV AR",
-        "epg_id": "AmericaTV.ar@SD",
+        "epg_id": "America.ar",
         "flow": "yes",
         "NSFW": "NO",
         "status": "false",
@@ -581,7 +592,7 @@
       },
       {
         "name": "EL TRECE",
-        "epg_id": "cl#el-trece-internacional",
+        "epg_id": "ElTrece.ar",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -595,7 +606,7 @@
       },
       {
         "name": "EL TRECE INTERNACIONAL",
-        "epg_id": "cl#el-trece-internacional",
+        "epg_id": "ElTreceInternacional.bo",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -609,7 +620,9 @@
       },
       {
         "name": "EL NUEVE",
+        "epg_id": "ElNueve.ar",
         "flow": "yes",
+        "NSFW": "NO",
         "status": "false",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd",
         "type": "CLEARKEY",
@@ -621,7 +634,9 @@
       },
       {
         "name": "Ar/12",
+        "epg_id": "Ar12.ar",
         "flow": "yes",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc/Investigacion_Periodistica.mpd",
         "type": "CLEARKEY",
@@ -633,7 +648,7 @@
       },
       {
         "name": "A24 ARGENTINA",
-        "epg_id": "A24.ar@SD",
+        "epg_id": "A24.ar",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -647,7 +662,7 @@
       },
       {
         "name": "C5N",
-        "epg_id": "C5N.ar@SD",
+        "epg_id": "C5N.ar",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -661,7 +676,7 @@
       },
       {
         "name": "CANAL 26",
-        "epg_id": "Canal26.ar@SD",
+        "epg_id": "Canal26.ar",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -675,7 +690,7 @@
       },
       {
         "name": "CRONICA",
-        "epg_id": "CronicaTV.ar@SD",
+        "epg_id": "CronicaTV.ar",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -689,7 +704,7 @@
       },
       {
         "name": "LN+",
-        "epg_id": "LaNacionPlus.ar@SD",
+        "epg_id": "LaNacion+.ar",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -703,7 +718,7 @@
       },
       {
         "name": "TN",
-        "epg_id": "TN.ar@SD",
+        "epg_id": "TN.ar",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -717,11 +732,12 @@
       },
       {
         "name": "TN 4K",
-        "epg_id": "TN.ar@SD",
+        "epg_id": "TN.ar",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Todo_Noticias_4K/SA_Live_dash_widevine/Todo_Noticias_4K.mpd",
+        "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_TNAR_4K",
         "Origin": "https://portal.app.flow.com.py",
         "Referer": "https://portal.app.flow.com.py",
@@ -743,7 +759,7 @@
       },
       {
         "name": "24/7 CANAL DE NOTICIAS",
-        "epg_id": "247CanaldeNoticias.ar@SD",
+        "epg_id": "24/7CanaldeNoticias.ar",
         "NSFW": "NO",
         "status": "true",
         "url": "https://panel.host-live.com:19360/cn247tv/Source.m3u8",
@@ -752,7 +768,7 @@
       },
       {
         "name": "NET TV",
-        "epg_id": "NETTV.ar@SD",
+        "epg_id": "NetTV.ar",
         "NSFW": "NO",
         "status": "true",
         "url": "https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8",
@@ -790,7 +806,7 @@
       },
       {
         "name": "TELEMAX",
-        "epg_id": "Telemax.ar@SD",
+        "epg_id": "Telemax.ar",
         "NSFW": "NO",
         "status": "true",
         "url": "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8",
@@ -826,7 +842,7 @@
       },
       {
         "name": "GARAGE TV",
-        "epg_id": "GarageTVLatinAmerica.ar@SD",
+        "epg_id": "ElGarage.ar",
         "NSFW": "NO",
         "status": "true",
         "url": "https://stream1.sersat.com/hls/garagetv.m3u8",
@@ -841,6 +857,7 @@
     "items": [
       {
         "name": "CANAL 10",
+        "epg_id": "Canal10.uy",
         "flow": "yes",
         "NSFW": "NO",
         "status": "false",
@@ -867,6 +884,7 @@
       },
       {
         "name": "CANAL 4",
+        "epg_id": "Canal4.uy",
         "flow": "yes",
         "NSFW": "NO",
         "status": "false",
@@ -880,7 +898,9 @@
       },
       {
         "name": "CANAL 5",
+        "epg_id": "Canal5.uy",
         "flow": "yes",
+        "NSFW": "NO",
         "status": "false",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc/TV_Nacional_Uy.mpd",
         "type": "CLEARKEY",
@@ -892,7 +912,7 @@
       },
       {
         "name": "MEGA HD",
-        "epg_id": "Mega.cl@SD",
+        "epg_id": "MEGA / MEGA HD.cl",
         "NSFW": "NO",
         "status": "true",
         "url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
@@ -913,8 +933,11 @@
       },
       {
         "name": "SBT",
+        "epg_id": "SBTBrasil.ar",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8",
+        "type": "CLEARKEY",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/086.webp"
       },
       {
@@ -943,14 +966,20 @@
     "items": [
       {
         "name": "CANAL 6",
+        "epg_id": "CANAL 6 +.mx",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://amg00658-amg00658c65-canelatv-international-5541.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00658-canelamediafast-canal6decdmxmultimediosta-canelatvinternational/cb563f16657765909ccb2167d4f362ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5daf6852db80148b6f4adafb8c2360625f5c98435ee3b24af2aae75b47db69a9ac4e1b9d2658e68314c9c94eb8d1dc469a458376f540cbc4a3dad14188b8ab51f004905c633e0b5cbbd134c49331dcbf9966298c705a257434b6f9ec9424299578534ef1e9cabc7c8d62a4e62b946c3b84158b709422837dab0abebb39cac2bfda54483aa1fb576029a7f0a18dfe4757d704feb1b390191f9dff100a01a329de70296cc8f99f44c9914cc2e26ed1e53e4e75c1c610cbd0e486eae6da1e98239e9fa19e67292400080f922fc6f00ff5088708c2a61a275d7250b48a50b6e2b33c1e4315ffea34d5030b86d99e8ddb023eb80b7133eb61d75e096d82207a269047949b2c7cb6351e8a2738c44d278c3098d24edb86818f6c58b1d0d3309c058ee5508e9c61bc7f302b57d9a1244b515c6e8aa1291a276e8d46e5ddcfed764714fab8ddf2c14a3d1576145a0d85ece27cd48dc1271c1a971e22653913139b1ce469b578218185547ca9ce3c47c76b1423efb33a591a5f82c9a58494a4b22ed751f2bf30bdb259230e933c1732669397805cef31487f003dca6f3605d58f3d3369503241d9004ceee5fc99bba7ef77fd505d2e285f767103989127f456eb901cbe94f091ad85823f4a9f35af0d11d185923cb8a5b6ce410b9fbd445949a39376953d7d9c57e32286842483f04d5048750069d29e58fa68bcddb1ce3fd579fe184d2dbc38f3b7cb87fb4a1aa79d4338364972127c5979654c9bd2c76b0d7ea3ed73b413b6a505e71214003e41df900911d3bb2052cf630c15cfcafc82a3ce0c07d92ea525bb072d92175c7eaf9c42a9e9d4d4f588685805a3c68844a9ae85848c9b8a117705683f8cd21d3253dd35fb9808f1a77f25ba69ea1813b23f1318b548fd0dabedd7b44e8843d4e45089/95/854x480_1355200/index.m3u8",
+        "type": "CLEARKEY",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/090.webp"
       },
       {
         "name": "AZTECA INTERNACIONAL",
+        "epg_id": "AztecaInternacional.es",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8",
+        "type": "CLEARKEY",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/091.webp"
       },
       {
@@ -967,6 +996,8 @@
       },
       {
         "name": "LAS ESTRELLAS",
+        "epg_id": "CANAL DE LAS ESTRELLAS.mx",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ep2x5rkrf5/out/v1/4e18b1b6cb5a48e19b5062e782008c4e/cenc.mpd",
         "type": "CLEARKEY",
@@ -975,6 +1006,8 @@
       },
       {
         "name": "NU9VE",
+        "epg_id": "NUEVE.mx",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/skz7pgjdyp/out/v1/8e7377f4d3154738b7f48baa996b35a5/cenc.mpd",
         "type": "CLEARKEY",
@@ -983,6 +1016,8 @@
       },
       {
         "name": "CANAL 5",
+        "epg_id": "Canal 5 HD.mx",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
         "type": "CLEARKEY",
@@ -991,8 +1026,11 @@
       },
       {
         "name": "CORAZON",
+        "epg_id": "AZ CORAZON.mx",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8",
+        "type": "CLEARKEY",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/097.webp"
       },
       {
@@ -1013,7 +1051,7 @@
     "items": [
       {
         "name": "AMERICA SPORTS",
-        "epg_id": "AmericaSports.ar@SD",
+        "epg_id": "AmericaSports.ar",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -1079,7 +1117,7 @@
       },
       {
         "name": "ESPN 2 AR",
-        "epg_id": "ar#espn",
+        "epg_id": "Espn2.ar",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -1093,7 +1131,7 @@
       },
       {
         "name": "ESPN 2 SUR",
-        "epg_id": "ar#espn",
+        "epg_id": "ESPN2.uy",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -1107,7 +1145,7 @@
       },
       {
         "name": "ESPN 2 SUR",
-        "epg_id": "espn_2_argentina",
+        "epg_id": "ESPN2.uy",
         "info": "#2",
         "NSFW": "NO",
         "status": "true",
@@ -1132,7 +1170,7 @@
       },
       {
         "name": "ESPN 3 SUR",
-        "epg_id": "espn_3_argentina",
+        "epg_id": "ESPN3.uy",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -1146,7 +1184,7 @@
       },
       {
         "name": "ESPN 3 SUR",
-        "epg_id": "espn_3_argentina",
+        "epg_id": "ESPN3.uy",
         "info": "#2",
         "NSFW": "NO",
         "status": "true",
@@ -1162,7 +1200,6 @@
         "NSFW": "NO",
         "status": "false",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
-        "url2": "http://38.226.49.253:8000/play/a065/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ESPN4Ar",
         "Origin": "https://portal.app.flow.com.ar",
@@ -1196,7 +1233,7 @@
       },
       {
         "name": "ESPN 6 SUR",
-        "epg_id": "lch2296",
+        "epg_id": "ESPN6.uy",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -1211,7 +1248,7 @@
       },
       {
         "name": "ESPN 7 SUR",
-        "epg_id": "lch2295",
+        "epg_id": "ESPN7.uy",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -1225,7 +1262,7 @@
       },
       {
         "name": "ESPN PREMIUM AR",
-        "epg_id": "ESPNPremium.ar@SD",
+        "epg_id": "EspnPremium.ar",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
