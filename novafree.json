@@ -1053,7 +1053,7 @@
       },
       {
         "name": "ESPN SUR",
-        "epg_id": "py#espn",
+        "epg_id": "ESPN.uy",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -1067,7 +1067,7 @@
       },
       {
         "name": "ESPN SUR",
-        "epg_id": "py#espn",
+        "epg_id": "ESPN.uy",
         "info": "#2",
         "NSFW": "NO",
         "status": "true",
