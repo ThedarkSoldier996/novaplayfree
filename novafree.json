@@ -99,7 +99,7 @@
       },
       {
         "name": "UNICANAL",
-        "epg_id": "py#unicanal",
+        "epg_id": "Unicanal.py@SD",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -1051,7 +1051,7 @@
       },
       {
         "name": "ESPN SUR",
-        "epg_id": "ar#espn-2",
+        "epg_id": "py#espn",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -1065,7 +1065,7 @@
       },
       {
         "name": "ESPN SUR",
-        "epg_id": "ar#espn-2",
+        "epg_id": "py#espn",
         "info": "#2",
         "NSFW": "NO",
         "status": "true",
@@ -1663,7 +1663,7 @@
       {
         "name": "Adult Swim",
         "flow": "yes",
-        "status": "true",
+        "status": "false",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc/Adult_Swim.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_AdultSwim",
@@ -1674,16 +1674,31 @@
       },
       {
         "name": "HBO",
+        "epg_id": "hbo_paraguay",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/HBOHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HBOHD.mpd",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_HBO",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/153.webp"
+      },
+      {
+        "name": "HBO 2",
+        "epg_id": "lch2630",
+        "flow": "yes",
+        "NSFW": "NO",
+        "status": "true",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_HBO2",
+        "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/454.webp"
       },
       {
         "name": "MTV",
@@ -2299,7 +2314,7 @@
       {
         "name": "CARTOON NETWORK",
         "flow": "yes",
-        "status": "true",
+        "status": "false",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd",
         "url2": "http://8.243.126.131:8000/play/a0f2/index.m3u8?hls",
         "type": "CLEARKEY",
@@ -2338,7 +2353,7 @@
       {
         "name": "DISNEY CHANNEL",
         "flow": "yes",
-        "status": "true",
+        "status": "false",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd",
         "url2": "http://190.7.19.197:232/play/a04v/index.m3u8",
         "type": "CLEARKEY",
@@ -2413,7 +2428,7 @@
       {
         "name": "NICKELODEON",
         "flow": "yes",
-        "status": "true",
+        "status": "false",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd",
         "url2": "http://190.7.19.197:232/play/a03e/index.m3u8",
         "type": "CLEARKEY",
@@ -3797,7 +3812,9 @@
       },
       {
         "name": "VENUS",
+        "epg_id": "Venus.ar@SD",
         "flow": "yes",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd",
         "type": "CLEARKEY",

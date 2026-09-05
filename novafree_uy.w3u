@@ -1861,10 +1861,23 @@
         {
           "name": "HBO",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/153.webp",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/HBOHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HBOHD.mpd",
-          "token": "https://cdn.cvattv.com.ar/live/c4eds/HBOHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HBOHD.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
+          "token": "https://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_cenc/HBOHD.mpd",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_HBO",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Referer": "https://portal.app.flow.com.uy/",
+            "Origin": "https://portal.app.flow.com.uy"
+          }
+        },
+        {
+          "name": "HBO 2",
+          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/454.webp",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_cenc/HBO_2.mpd",
+          "license_type": "clearkey",
+          "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_HBO2",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Referer": "https://portal.app.flow.com.uy/",
