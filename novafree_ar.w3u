@@ -1729,28 +1729,6 @@
           }
         },
         {
-          "name": "EUROSPORT 1",
-          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/144.webp",
-          "url": "https://cache07.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd",
-          "token": null,
-          "license_type": "clearkey",
-          "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/EUROSPORTS1",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-          }
-        },
-        {
-          "name": "EUROSPORT 2",
-          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/145.webp",
-          "url": "https://cache07.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd",
-          "token": null,
-          "license_type": "clearkey",
-          "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/EUROSPORTS2",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-          }
-        },
-        {
           "name": "CAZETV",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/146.webp",
           "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
@@ -1823,18 +1801,7 @@
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/446.webp",
           "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
           "token": null,
-          "license_type": null,
-          "license_key": null,
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-          }
-        },
-        {
-          "name": "Rally TV Fast",
-          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/446.webp",
-          "url": "https://dv1e2nq0r4g7p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n8rallqdrsy49/playlist.m3u8",
-          "token": null,
-          "license_type": null,
+          "license_type": "clearkey",
           "license_key": null,
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
@@ -1965,7 +1932,7 @@
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/161.webp",
           "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
           "token": null,
-          "license_type": null,
+          "license_type": "clearkey",
           "license_key": null,
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
@@ -2856,7 +2823,7 @@
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/235.webp",
           "url": "https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8",
           "token": null,
-          "license_type": null,
+          "license_type": "clearkey",
           "license_key": null,
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
@@ -2867,7 +2834,7 @@
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/236.webp",
           "url": "https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8",
           "token": null,
-          "license_type": null,
+          "license_type": "clearkey",
           "license_key": null,
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
@@ -2889,7 +2856,7 @@
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/238.webp",
           "url": "https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8",
           "token": null,
-          "license_type": null,
+          "license_type": "clearkey",
           "license_key": null,
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"

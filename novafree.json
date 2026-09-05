@@ -1209,7 +1209,7 @@
       },
       {
         "name": "ESPN 4 SUR",
-        "epg_id": "lch3867",
+        "epg_id": "ESPN4.uy",
         "NSFW": "NO",
         "status": "true",
         "url": "https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/manifest.mpd",
@@ -1219,7 +1219,7 @@
       },
       {
         "name": "ESPN 5 SUR",
-        "epg_id": "lch2743",
+        "epg_id": "ESPN5.uy",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -1277,7 +1277,7 @@
       },
       {
         "name": "FOX DEPORTES",
-        "epg_id": "FoxDeportes.us@SD",
+        "epg_id": "Fox Deportes HD (1655).us",
         "NSFW": "NO",
         "status": "true",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
@@ -1395,7 +1395,7 @@
       },
       {
         "name": "TUDN MX",
-        "epg_id": "TUDN.mx@SD",
+        "epg_id": "TUDN.mx",
         "NSFW": "NO",
         "status": "true",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
@@ -1406,7 +1406,7 @@
       },
       {
         "name": "TNT SPORTS PREMIUM AR",
-        "epg_id": "TNTSports.ar@HD",
+        "epg_id": "TNTSportsPremium.ar",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -1421,7 +1421,7 @@
       },
       {
         "name": "TYC SPORTS",
-        "epg_id": "TyCSports.ar@SD",
+        "epg_id": "TyCSports.ar",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -1447,6 +1447,7 @@
       },
       {
         "name": "DSPORTS ARGENTINA",
+        "epg_id": "DSportsArgentina.uy",
         "info": "SD",
         "NSFW": "NO",
         "status": "true",
@@ -1459,6 +1460,7 @@
       },
       {
         "name": "DSPORTS ARGENTINA",
+        "epg_id": "DSportsArgentina.uy",
         "info": "HD",
         "NSFW": "NO",
         "status": "true",
@@ -1473,6 +1475,7 @@
       },
       {
         "name": "DSPORTS OPC 2",
+        "epg_id": "DSportsArgentina.uy",
         "flow": "yes",
         "NSFW": "NO",
         "status": "false",
@@ -1486,6 +1489,7 @@
       },
       {
         "name": "DSPORTS ARGENTINA",
+        "epg_id": "DSportsArgentina.uy",
         "info": "HI-FI AUDIO",
         "NSFW": "NO",
         "status": "true",
@@ -1523,6 +1527,7 @@
       },
       {
         "name": "DSPORTS URUGUAY",
+        "epg_id": "DSports.uy",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -1549,6 +1554,7 @@
       },
       {
         "name": "DSPORTS 2 ARGENTINA",
+        "epg_id": "DSports2.uy",
         "NSFW": "NO",
         "status": "true",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nzl2d4ffbw/out/v1/d094dc6ba8354f3e88b7efa32f80cc33/cenc.mpd",
@@ -1558,6 +1564,7 @@
       },
       {
         "name": "DSPORTS 2 ARGENTINA",
+        "epg_id": "DSports2.uy",
         "info": "#2",
         "NSFW": "NO",
         "status": "true",
@@ -1568,6 +1575,7 @@
       },
       {
         "name": "DSPORTS 2 URUGUAY",
+        "epg_id": "DSports2.uy",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -1591,6 +1599,7 @@
       },
       {
         "name": "DSPORTS+ URUGUAY",
+        "epg_id": "DSportsPlus.uy",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -1611,22 +1620,6 @@
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/143.webp"
       },
       {
-        "name": "EUROSPORT 1",
-        "status": "true",
-        "url": "https://cache07.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/EUROSPORTS1",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/144.webp"
-      },
-      {
-        "name": "EUROSPORT 2",
-        "status": "true",
-        "url": "https://cache07.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/EUROSPORTS2",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/145.webp"
-      },
-      {
         "name": "CAZETV",
         "status": "true",
         "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
@@ -1636,6 +1629,8 @@
       },
       {
         "name": "SPORTV 2",
+        "epg_id": "sportv 2.br",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd",
         "type": "CLEARKEY",
@@ -1644,6 +1639,8 @@
       },
       {
         "name": "SPORTV 3",
+        "epg_id": "SporTV 3.br",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
         "type": "CLEARKEY",
@@ -1652,6 +1649,8 @@
       },
       {
         "name": "PREMIERE  CLUBES",
+        "epg_id": "PREMIERE CLUBES HD.br",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
         "type": "CLEARKEY",
@@ -1660,7 +1659,9 @@
       },
       {
         "name": "NBA TV",
+        "epg_id": "NBATV.ar",
         "flow": "yes",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc/NBA_TV.mpd",
         "type": "CLEARKEY",
@@ -1680,16 +1681,11 @@
       },
       {
         "name": "Rally TV",
+        "epg_id": "RallyTV.uk",
         "NSFW": "NO",
         "status": "true",
         "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/446.webp"
-      },
-      {
-        "name": "Rally TV Fast",
-        "NSFW": "NO",
-        "status": "true",
-        "url": "https://dv1e2nq0r4g7p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n8rallqdrsy49/playlist.m3u8",
+        "type": "CLEARKEY",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/446.webp"
       }
     ]
@@ -1741,7 +1737,9 @@
       },
       {
         "name": "MTV",
+        "epg_id": "Canal MTV (República Dominicana).do",
         "flow": "yes",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd",
         "type": "CLEARKEY",
@@ -1765,7 +1763,9 @@
       },
       {
         "name": "EUROPA EUROPA",
+        "epg_id": "EuropaEuropa.ar",
         "flow": "yes",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_enc/Europa_Europa.mpd",
         "url2": "http://190.7.19.197:232/play/a01o/index.m3u8",
@@ -1779,7 +1779,7 @@
       {
         "name": "AMC",
         "flow": "yes",
-        "status": "true",
+        "status": "false",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_AMC",
@@ -1796,7 +1796,9 @@
       },
       {
         "name": "CINEMAX",
+        "epg_id": "Canal Cinemax (Panamá).pa",
         "flow": "yes",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc/Cinemax.mpd",
         "type": "CLEARKEY",
@@ -1808,9 +1810,12 @@
       },
       {
         "name": "RCN MÁS",
+        "epg_id": "69de4ad924a6d521f8b0a348",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
         "url2": "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
+        "type": "CLEARKEY",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/161.webp",
         "url3": "https://rcntv-rcnmas-1-us.tcl.wurl.tv/playlist.m3u8"
       },
@@ -1835,7 +1840,9 @@
       },
       {
         "name": "STUDIO UNIVERSAL",
+        "epg_id": "StudioUniversal.ar",
         "flow": "yes",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Universal.mpd",
         "url2": "http://38.97.240.11:8000/play/a0bl/index.m3u8",
@@ -1849,7 +1856,7 @@
       {
         "name": "STAR CHANNEL HD",
         "flow": "yes",
-        "status": "true",
+        "status": "false",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd",
         "url2": "http://38.226.49.253:8000/play/a06q/index.m3u8",
         "type": "CLEARKEY",
@@ -1862,7 +1869,7 @@
       {
         "name": "SPACE HD",
         "flow": "yes",
-        "status": "true",
+        "status": "false",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd",
         "url2": "http://38.226.49.253:8000/play/a064/index.m3u8",
         "type": "CLEARKEY",
@@ -1874,7 +1881,9 @@
       },
       {
         "name": "A&E",
+        "epg_id": "A&E.py",
         "flow": "yes",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd",
         "url2": "http://38.226.49.253:8000/play/a05m/index.m3u8",
@@ -1888,7 +1897,7 @@
       },
       {
         "name": "AXN",
-        "epg_id": "AXNLatinAmerica.us@Andes",
+        "epg_id": "AXNHD.bb",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
@@ -1904,7 +1913,7 @@
       {
         "name": "FX",
         "flow": "yes",
-        "status": "true",
+        "status": "false",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd",
         "url2": "http://38.226.49.253:8000/play/a07c/index.m3u8",
         "type": "CLEARKEY",
@@ -1916,7 +1925,9 @@
       },
       {
         "name": "SONY CHANNEL",
+        "epg_id": "SonyChannel.ar",
         "flow": "yes",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc/SonyHD.mpd",
         "url2": "http://38.226.49.253:8000/play/a060/index.m3u8",
@@ -1967,7 +1978,9 @@
       },
       {
         "name": "HISTORY 2",
+        "epg_id": "HISTORY 2 HD.cl",
         "flow": "yes",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/History_2/SA_Live_dash_enc/History_2.mpd",
         "type": "CLEARKEY",
@@ -1996,7 +2009,7 @@
       {
         "name": "DISCOVERY",
         "flow": "yes",
-        "status": "true",
+        "status": "false",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd",
         "url2": "http://38.226.49.253:8000/play/a05s/index.m3u8",
         "type": "CLEARKEY",
@@ -2011,7 +2024,7 @@
       {
         "name": "DISCOVERY H&H",
         "flow": "yes",
-        "status": "true",
+        "status": "false",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc/DiscoveryHomeHealthHD.mpd",
         "url2": "http://38.226.49.253:8000/play/a0an/index.m3u8",
         "type": "CLEARKEY",
@@ -2118,7 +2131,7 @@
       {
         "name": "NATGEO",
         "flow": "yes",
-        "status": "true",
+        "status": "false",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd",
         "url2": "http://38.226.49.253:8000/play/a05x/index.m3u8",
         "type": "CLEARKEY",
@@ -2553,14 +2566,20 @@
     "items": [
       {
         "name": "PLUTO.TV CINE ESTELAR",
+        "epg_id": "5f1ac1f1b66c76000790ef27",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8",
+        "type": "CLEARKEY",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/235.webp"
       },
       {
         "name": "PLUTO.TV CINE ACCIÓN",
+        "epg_id": "5dcb62e63d4d8f0009f36881",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8",
+        "type": "CLEARKEY",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/236.webp"
       },
       {
@@ -2571,8 +2590,11 @@
       },
       {
         "name": "ADRENALINA PURA",
+        "epg_id": "61b790b985706b00072cb797",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8",
+        "type": "CLEARKEY",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/238.webp"
       },
       {
