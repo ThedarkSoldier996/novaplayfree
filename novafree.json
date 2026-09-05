@@ -393,7 +393,7 @@
         "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
         "type": "CLEARKEY",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/030.webp",
-        "epg_url": "https://raw.githubusercontent.com/novaplaytv/novaimg/main/novaepg/tvmax/tvmax.xml"
+        "epg_url": "https://raw.githubusercontent.com/novaplaytv/novaepg/main/novaepg/tvmax/tvmax.xml"
       },
       {
         "name": "TVS ENCARNACIÓN",
@@ -1093,7 +1093,7 @@
       },
       {
         "name": "ESPN 2 SUR",
-        "epg_id": "espn_2_argentina",
+        "epg_id": "ar#espn",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
