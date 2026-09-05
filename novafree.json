@@ -85,11 +85,12 @@
       },
       {
         "name": "TRECE",
-        "epg_id": "Trece.py@SD",
+        "epg_id": "py#canal-13",
         "flow": "yes",
         "NSFW": "NO",
         "status": "true",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
+        "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TrecePY",
         "Origin": "https://portal.app.flow.com.ar",
         "Referer": "https://portal.app.flow.com.ar/",
@@ -1325,7 +1326,9 @@
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/119.webp"
       },
       {
-        "name": "FOX SPORTS PREMIUM MX ",
+        "name": "FOX SPORTS PREMIUM MX",
+        "epg_id": "lch2294",
+        "NSFW": "NO",
         "status": "true",
         "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
         "type": "CLEARKEY",
